@@ -1,0 +1,2666 @@
+ A METHOD TO MAP EEG SIGNALS TO SPOKEN SPEECH USING GAUSSIAN PROCESS MODELING
+Hongde Wu, Changjie Pan, Mingtao Li, Fei Chen, Southern University of Science and Technology, China
+ 
+#6471
+ SYNTHESIS OF REALISTIC ECG WAVEFORMS USING A COMPOSITE GENERATIVE ADVERSARIAL NETWORK FOR CLASSIFICATION OF ATRIAL FIBRILLATION
+Rohan Banerjee, Avik Ghose, Tata Consultancy Services, India
+ 
+#6508
+ A SIMPLE AND EFFICIENT NEAR-LOSSLESS COMPRESSION ALGORITHM FOR MULTICHANNEL EEG SYSTEMS
+Giuseppe Campobello, Giovanni Gugliandolo, Nicola Donato, University of Messina, Italy
+ 
+#6744
+ ALPHA BAND DYSCONNECTIVITY NETWORKS IN MAJOR DEPRESSION DURING RESTING STATE
+Wenya Liu, University of Jyväskylä, Finland; Xiulin Wang, Fengyu Cong, Dalian University of Technology, China; Timo Hämäläinen, University of Jyväskylä, Finland
+ 
+#6867
+ PROOF OF THE RESOLUTION-DOUBLING OF RANDOM ILLUMINATION MICROSCOPY USING THE VARIANCE OF THE SPECKLED IMAGES
+simon labouesse, Aix Marseille Université & CNRS, IBDM - UMR7288 & Turing Centre for Living Systems, France; Jérôme Idier, Laboratoire des Sciences du Numérique de Nantes, Centrale Nantes, F-44321, France; Anne Sentenac, Marc Allain, Aix Marseille University, CNRS, Centrale Marseille, Institut Fresnel, F-13013, France; Thomas Mangeat, Centre for Integrative Biology, Université de Toulouse, CNRS, UPS, F-31062 Toulouse, France
+mais detalhes»  copiar para minha agenda
+12:00
+ 
+SPMuS-L1 - Navigation, Positioning and Source Localization
+Quando
+ter., 24 de agosto, 12:00 – 12:30
+Descrição
+ SPMuS-L1 - Navigation, Positioning and Source Localization 
+
+Q&A session
+
+Session chair:  Dirk Slock
+
+
+#6600
+ TOWARDS SCALABLE UNCERTAINTY AWARE DNN-BASED WIRELESS LOCALISATION
+Artan Salihu, Stefan Schwarz, TU Wien and Christian Doppler Laboratory for Dependable Wireless Connectivity for the Society in Motion, Austria; Markus Rupp, TU Wien, Austria
+ 
+#6784
+2D DDOA-BASED SELF-POSITIONING FOR MOBILE DEVICES
+Minh Hoang Le, Orange Labs - Sophia Antipolis - France, France; Dirk Slock, EURECOM - France, France; Jean-Pierre Rossi, Orange Labs - Sophia Antipolis - France, France
+ 
+#6957
+ NODE DEPLOYMENT UNDER POSITION UNCERTAINTY FOR NETWORK LOCALIZATION
+Mohammad Javad Khojasteh, Augustin Saucan, Zhenyu Liu, Massachusetts Institute of Technology, United States; Andrea Conti, University of Ferrara, Italy; Moe Win, Massachusetts Institute of Technology, United States
+ 
+#6653
+HOMOTOPY CONTINUATION FOR SENSOR NETWORKS SELF-CALIBRATION
+Luca Ferranti, University of Vaasa, Finland; Kalle Åström, Magnus Oskarsson, Lund University, Sweden; Jani Boutellier, Vaasa University, Finland; Juho Kannala, Aalto University, Finland
+ 
+#6403 CONVEX CLUSTERING FOR MULTISTATIC ACTIVE SENSING VIA OPTIMAL MASS TRANSPORT
+Filip Elvander, KU Leuven, Belgium; Johan Karlsson, KTH Royal Institute of Technology, Sweden; Toon van Waterschoot, KU Leuven, Belgium
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mais detalhes»  copiar para minha agenda
+12:00
+ 
+SS1-Signal Processing for Advanced Mobile Communications - Towards 6G
+Quando
+ter., 24 de agosto, 12:00 – 12:30
+Onde
+https://eusipco2021.org/special-sessions/ (mapa)
+Descrição
+  SS1-Signal Processing for Advanced Mobile Communications - Towards 6G
+
+Q&A session 
+Organisers: Lucas Nogueira Ribeiro (TU Ilmenau), Stefan Schwarz (TU Wien)
+
+
+
+# 1138
+ZERO-CROSSING MODULATIONS FOR A MULTI-USER MIMO DOWNLINK WITH 1-BIT TEMPORAL OVERSAMPLING ADCS
+Peter Neuhaus, Technische Universität Dresden, Germany; Diana M. V. Melo, Lukas T. N. Landau, Rodrigo C. de Lamare, Pontifical Catholic University of Rio de Janeiro, Brazil; Gerhard Fettweis, Technische Universität Dresden, Germany
+ 
+#1200 
+RIS-ASSISTED CODE-DOMAIN MIMO-NOMA
+Bashar Tahir, Stefan Schwarz, Markus Rupp, TU Wien, Austria
+ 
+#1201
+ TERAHERTZ TRANSMIT BEAMFORMING WITH 1-BIT DACS AND ADCS
+Rasoul Nikbakht, Angel Lozano, Universitat Pompeu Fabra, Spain
+ 
+#6302
+ ON THE OPTIMALITY OF NOMA IN TWO-USER DOWNLINK MULTIPLE ANTENNA CHANNELS
+Eduard Jorswieck, Sepehr Rezvani, TU Braunschweig, Germany
+ 
+#6536: 
+JOINT CHANNEL ESTIMATION AND DEVICE ACTIVITY DETECTION IN HETEROGENEOUS NETWORKS
+LEATILE MARATA, Onel Luis Alcaraz López, Eduardo Noboro Tominaga, Hirley Alves, University of Oulu, Finland
+mais detalhes»  copiar para minha agenda
+12:00
+ 
+VIP-L1-Computational and Spectral Imaging
+Quando
+ter., 24 de agosto, 12:00 – 12:30
+Descrição
+ VIP-L1-Computational and Spectral Imaging
+Q&A 
+#6840
+ PER-PIXEL WATER AND OIL DETECTION ON SURFACES WITH UNKNOWN REFLECTANCE
+Chao Wang, Takahiro Okabe, Kyushu Institute of Technology, Japan
+ 
+#6847
+ DETECTING MOMENTARY SHADOWS FROM VISIBLE AND THERMAL IMAGE PAIR
+Kazuya Fujita, Kyushu Institute of Technology, Japan; Ryo Matsuoka, The University of Kitakyushu, Japan; Takahiro Okabe, Kyushu Institute of Technology, Japan
+ 
+#6913
+ REGULARIZATION BY ADVERSARIAL LEARNING FOR ULTRASOUND ELASTICITY IMAGING
+Narges Mohammadi, Marvin M. Doyley, Mujdat Cetin, University of Rochester, United States
+ 
+#6654 
+A METHOD FOR RECOVERING NEAR INFRARED INFORMATION FROM RGB MEASUREMENTS WITH APPLICATION IN PRECISION AGRICULTURE
+Alexandros Gkillas, Dimitrios Kosmopoulos, Constantinos Constantinopoulos, Dimitris Ampeliotis, Kostas Berberidis, University of Patras, Greece
+ 
+#6872
+ SURFACE DETECTION FOR SKETCHED SINGLE PHOTON LIDAR
+Michael Sheehan, Julian Tachella, Mike Davies, University of Edinburgh, United Kingdom
+ 
+mais detalhes»  copiar para minha agenda
+12:00
+ 
+ASMSP-L1-Audio Analysis
+Quando
+ter., 24 de agosto, 12:00 – 12:30
+Descrição
+ASMSP-L1-Audio Analysis
+
+Q&A session
+
+
+#1071
+OPEN RANGE PITCH TRACKING FOR CARRIER FREQUENCY DIFFERENCE ESTIMATION FROM HF TRANSMITTED SPEECH
+Joerg Schmalenstroeer, Jens Heitkaemper, Joerg Ullmann, Reinhold Haeb-Umbach, Paderborn University, Germany
+ 
+#1192
+ PHASE-BASED SIGNAL REPRESENTATIONS FOR SCATTERING
+Daniel Haider, Peter Balazs, Nicki Holighaus, Acoustics Research Institute, Austria
+ 
+#1223 
+AUDIO-BASED TOXIC LANGUAGE CLASSIFICATION USING SELF-ATTENTIVE CONVOLUTIONAL NEURAL NETWORK
+Midia Yousefi, Research Assistant University of Texas at Dallas, United States; Dimitra Emmanouilidou, Senior Researcher, United States
+ 
+#1231 
+A NOVEL PITCH DETECTION ALGORITHM BASED ON INSTANTANEOUS FREQUENCY
+Zied Mnasri, Ecole Nationale d'Ingenieurs de Tunis, University Tunis El Manar, Tunisia; Stefano Rovetta, Francesco Masulli, University of Genoa, Italy
+ 
+6619
+ EXPLOITING PHASE-BASED FEATURES FOR WHISPER VS. SPEECH CLASSIFICATION
+Nirmesh Shah, DA-IICT, Gandhinagar, India; M Ali Basha Shaik, Periyasamy P, Samsung R&D, Bangalore, India; Hemant Patil, DA-IICT, Gandhinagar, India; Vikram Vij, Samsung R&D, Bangalore, India
+mais detalhes»  copiar para minha agenda
+12:00
+ 
+TMTSP-L1 - Time-Frequency and Time-Scale Analysis
+Quando
+ter., 24 de agosto, 12:00 – 12:30
+Descrição
+  TMTSP-L1 - Time-Frequency and Time-Scale Analysis
+
+Q&A
+#1139 
+SOURCE SEPARATION BASED ON NON-NEGATIVE MATRIX FACTORIZATION OF THE SYNCHROSQUEEZING TRANSFORM
+Neha Singh, Sylvain Meignen, University Grenoble alpes, France; Thomas Oberlin, ISAE-SUPAERO, France
+ 
+#1180
+ PARAMETER ESTIMATION FROM THE CROSS-SPECTROGRAM REASSIGNMENT VECTORS
+Maria Sandsten, Isabella Reinhold, Rachele Anderson, Lund University, Sweden
+ 
+#1193 
+NON-PARAMETRIC ENVELOPE ESTIMATION FOR THE MATCHED WINDOW REASSIGNMENT
+Isabella Reinhold, Maria Sandsten, Lund University, Sweden
+ 
+#6325  
+A NOVEL PSEUDO-BAYESIAN APPROACH FOR ROBUST MULTI-RIDGE DETECTION AND MODE RETRIEVAL
+Quentin Legros, Telecom-Paris, France; Dominique Fourer, IBISC - Univ. Evry/Paris-Saclay, France
+ 
+#6294
+ BAYESIAN ESTIMATION OF THE PARAMETERS OF THE BIVARIATE MULTIFRACTAL SPECTRUM
+Lorena Leon, Herwig Wendt, Jean-Yves Tourneret, University of Toulouse, France; Patrice Abry, Ecole Normale Supérieure de Lyon, France
+mais detalhes»  copiar para minha agenda
+12:40
+ 
+Springer Nature (40 minute session)
+15:30
+ 
+SS2 - Signal Processing and Machine Learning for Large or Spatially Distributed Microphone Arrays - Part 2
+Quando
+ter., 24 de agosto, 15:30 – 16:30
+Onde
+https://eusipco2021.org/special-sessions/ (mapa)
+Descrição
+SS2: SIGNAL PROCESSING AND MACHINE LEARNING FOR SPATIALLY DISTRIBUTED MICROPHONES Part 2
+
+Q&A session
+Organisers: Ryan M. Corey (Uni Illinois), Reinhold Haeb-Umbach (Paderborn Uni), Robin Scheibler (LINE Corporation), Romain Serizel (Universite de Lorraine)
+
+
+
+#1038
+ PYAWNES-CODEC: SPEECH AND AUDIO CODEC FOR AD-HOC ACOUSTIC WIRELESS SENSOR NETWORKS
+Tom Bäckström, Aalto University, Finland; Mariem Bouafif, El Manar University, Tunisia; Pablo Pérez Zarazaga, Meghna Ranjit, Sneha Das, Aalto University, Finland; Zied Lachiri, El Manar University, Tunisia
+ 
+#1062 
+ATTENTION-BASED DISTRIBUTED SPEECH ENHANCEMENT FOR UNCONSTRAINED MICROPHONE ARRAYS WITH VARYING NUMBER OF NODES
+Nicolas Furnon, Romain Serizel, Irina Illina, Université de Lorraine, CNRS, Inria, Loria, France; Slim Essid, LTCI, Télécom ParisTech, France
+ 
+#1110 
+CONTINUOUS SPEECH SEPARATION WITH AD HOC MICROPHONE ARRAYS
+Dongmei Wang, Takuya Yoshioka, Zhuo Chen, Xiaofei Wang, Tianyan Zhou, Zhong Meng, Microsoft, United States
+ 
+#6243
+ MODEL-BASED BEAMFORMING FOR WEARABLE MICROPHONE ARRAYS
+Emilie d'Olne, Alastair H. Moore, Patrick A. Naylor, Imperial College London, United Kingdom
+ 
+#6305
+ ONLINE ESTIMATION OF SAMPLING RATE OFFSETS IN WIRELESS ACOUSTIC SENSOR NETWORKS WITH PACKET LOSS
+Aleksej Chinaev, Gerald Enzner, Ruhr-Universität Bochum, Germany; Tobias Gburrek, Joerg Schmalenstroeer, Paderborn University, Germany
+ 
+#6312 
+UNSUPERVISED CLUSTERED FEDERATED LEARNING IN COMPLEX MULTI-SOURCE ACOUSTIC ENVIRONMENTS
+Alexandru Nelus, Rene Glitza, Rainer Martin, Institute of Communication Acoustics, Ruhr University Bochum, Germany
+ 
+#6467 
+ONLINE ESTIMATION OF TIME-VARIANT MICROPHONE UTILITY IN WIRELESS ACOUSTIC SENSOR NETWORKS USING SINGLE-CHANNEL SIGNAL FEATURES
+Michael Günther, Andreas Brendel, Walter Kellermann, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Germany
+ 
+#6629
+ SAMPLING FREQUENCY MISMATCH ESTIMATION BY AUXILIARY-FUNCTION-BASED ITERATIVE MAXIMIZATION OF DOUBLE-CROSS-CORRELATION
+Kouei Yamaoka, Nobutaka Ono, Yukoh Wakabayashi, Tokyo Metropolitan University, Japan
+ 
+#6652
+ A COHERENCE-BASED CLUSTERING METHOD FOR MULTICHANNEL SPEECH ENHANCEMENT IN WIRELESS ACOUSTIC SENSOR NETWORKS
+Antonio Jesús Muñoz-Montoro, Universidad de Oviedo, Spain; Pedro Vera-Candeas, Universidad de Jaén, Spain; Mads Græsbøll Christensen, Aalborg University, Denmark
+ 
+#6781
+ADAPTING SOUND RECOGNITION TO A NEW ENVIRONMENT VIA SELF-TRAINING
+Janek Ebbers, Moritz Curt Keyser, Reinhold Haeb-Umbach, Paderborn University, Germany
+mais detalhes»  copiar para minha agenda
+15:30
+ 
+SS3- New Challenges in Structured tensors and Matrix Methods
+Quando
+ter., 24 de agosto, 15:30 – 16:30
+Onde
+https://eusipco2021.org/special-sessions/ (mapa)
+Descrição
+  SS3- New Challenges in Structured tensors and Matrix Methods
+
+Q&A session
+Organisers: Remy Boyer, Xiao Fu, Nicolas Gillis
+
+#1060
+ PARAFAC2 AO-ADMM: CONSTRAINTS IN ALL MODES
+Marie Roald, Carla Schenker, Simula Metropolitan Center for Digital Engineering, Norway; Jeremy E. Cohen, University of Rennes, Inria, France; Evrim Acar, Simula Metropolitan Center for Digital Engineering, Norway
+ 
+#1214 
+HIERARCHICAL ALTERNATING NONLINEAR LEAST SQUARES FOR NON-NEGATIVE MATRIX FACTORIZATION USING RATIONAL FUNCTIONS
+Cécile Hautecoeur, François Glineur, UCLouvain, Belgium; Lieven De Lathauwer, KU Leuven, Belgium
+ 
+#1230
+ EFFICIENT IMPLEMENTATION OF STOCHASTIC PROXIMAL POINT ALGORITHM FOR MATRIX AND TENSOR COMPLETION
+Aysegul Bumin, Kejun Huang, University of Florida, United States
+ 
+#6264
+ DATA-DRIVEN SIMULATION FOR NARX SYSTEMS
+Vikas Kumar MISHRA, Ivan Markovsky, Antonio Fazzi, Vrije Universiteit Brussel (VUB), Belgium; Philippe Dreesen, KU Leuven, Belgium
+ 
+#6377 
+CONSTRAINED BLOCK-TERM TENSOR DECOMPOSITION-BASED HYPERSPECTRAL UNMIXING VIA ALTERNATING GRADIENT PROJECTION
+Meng Ding, University of Electronic Science and Technology of China, China; Xiao Fu, Oregon State University, United States; Ting-Zhu Huang, Xi-Le Zhao, University of Electronic Science and Technology of China, China
+ 
+#6390
+ INERTIAL MAJORIZATION-MINIMIZATION ALGORITHM FOR MINIMUM-VOLUME NMF
+Olivier Vu Thanh, Université de Mons, Belgium; Andersen Ang, University of Waterloo, Canada; Nicolas Gillis, Thi Khanh Hien Le, Université de Mons, Canada
+ 
+#6518
+ VOLTERRA KERNELS OF BILINEAR SYSTEMS HAVE TENSOR TRAIN STRUCTURE
+José Henrique de Morais Goulart, INP Toulouse, France; Phillip Burt, Escola Politécnica da Universidade de São Paulo, Brazil
+ 
+#6607
+ IMPROVED L1-TUCKER VIA L1-FITTING
+Mahsa Mozaffari, Panos Markopoulos, Rochester Institute of Technology, United States; Ashley Prater-Bennette, Air Force Research Laboratory, United States
+ 
+#6705
+ TENSOR-BASED MULTIVARIATE POLYNOMIAL OPTIMIZATION WITH APPLICATION IN BLIND IDENTIFICATION
+Muzaffer Ayvaz, Lieven De Lathauwer, KU Leuven, Belgium
+ 
+#6811 
+A HOMOTOPY OPTIMIZATION METHOD FOR ORTHOGONAL NON-NEGATIVE MATRIX FACTORIZATION
+Ya Liu, Mingjie Shao, Wing-Kin Ma, The Chinese University of Hong Kong, China
+mais detalhes»  copiar para minha agenda
+15:30
+ 
+TMTSP-P1 - Detection and Estimation Methods
+Quando
+ter., 24 de agosto, 15:30 – 16:30
+Descrição
+  TMTSP-P1 - Detection and Estimation Methods
+
+Q&A
+
+#1187
+ INHERENT LIMITATIONS OF PARAMETER ESTIMATION OF A TEMPO-SPATIAL FIELD USING AN ARRAY OF HETEROGENEOUS SENSORS
+Aviv Regev, Jonatan Ostrometzky, Hagit Messer, Tel Aviv University, Israel
+ 
+#6522
+ AN EXPONENTIAL TIME ALGORITHM FOR MULTILEVEL QUANTIZATION IN DISTRIBUTED DETECTION
+Gökhan Gül, Michael Bassler, Fraunhofer IMM, Germany
+ 
+#6794 
+HB-DTW: HYPERDIMENSIONAL BAYESIAN DYNAMIC TIME WARPING FOR NON-UNIFORM DOPPLER
+Sijung Yang, Andrew Singer, University of Illinois, at Urbana-champaign, United States
+ 
+#6838 
+MAST: A QUICKEST DETECTION PROCEDURE FOR COVID-19 EPIDEMIOLOGICAL DATA TO TRIGGER STRATEGIC DECISIONS
+Paolo Braca, Domenico Gaglione, NATO STO Centre for Maritime Research and Experimentation, Italy; Stefano Marano, University of Salerno, Italy; Leonardo Millefiori, NATO STO Centre for Maritime Research and Experimentation, Italy; Peter Willett, Krishna Pattipati, University of Connecticut, United States
+ 
+#6903 
+SPECTRUM-BASED ONLINE ESTIMATION OF IQ IMBALANCE FOR NEAR FIELD RADAR DISTANCE SENSORS
+Florian Liebgott, Marvin Jandt, Mark Eberspächer, Balluff GmbH, Germany; Annika Liebgott, Bin Yang, University of Stuttgart, Germany
+ 
+#6349
+ REGULARIZED IDENTIFICATION OF TIME-VARYING FIR SYSTEMS BASED ON GENERALIZED CROSS-VALIDATION
+Artur Gancza, Maciej Niedzwiecki, Gdansk University of Technology, Poland
+ 
+#6669
+ COMPARISON OF ROBUST HYPOTHESIS TESTS FOR FIXED SAMPLE SIZE AND SEQUENTIAL OBSERVATIONS
+Gökhan Gül, Fraunhofer IMM, Germany
+ 
+#6482
+ MODEL MISMATCH TRADE-OFFS IN LMMSE ESTIMATION
+Martin Hellkvist, Ayca Özcelikkale, Uppsala University, Sweden
+ 
+mais detalhes»  copiar para minha agenda
+15:30
+ 
+VIP-P1-Vision and Image Processing Part 1
+Quando
+ter., 24 de agosto, 15:30 – 16:30
+Descrição
+VIP-P1-Vision and Image Processing Part 1
+
+Q&A session
+
+Session chair: Stefania Colonnese 
+
+
+#1032
+ MULTISCALE ANISOTROPIC HARMONIC FILTERS ON NON EUCLIDEAN DOMAINS
+Francesco Conti, Gaetano Scarano, Stefania Colonnese, Sapienza University of Rome, Italy
+ 
+#1072
+ WATCH, LISTEN, AND ANSWER: OPEN-ENDED VIDEOQA WITH MODULATED MULTI-STREAM 3D CONVNETS
+Taiki Miyanishi, Motoaki Kawanabe, Advanced Telecommunications Research Institute International (ATR); RIKEN Center for Advanced Intelligence Project (AIP), Japan
+ 
+#1078
+ HOW FAST IS SIGN LANGUAGE? A REEVALUATION OF THE KINEMATIC BANDWIDTH USING MOTION CAPTURE
+Félix Bigand, Elise Prigent, Bastien Berret, Annelies Braffort, Université Paris-Saclay, France
+ 
+#6475
+ ROBUST AND GUIDED SUPER-RESOLUTION FOR SINGLE-PHOTON DEPTH IMAGING VIA A DEEP NETWORK
+Alice Ruget, Stephen McLaughlin, Heriot Watt University, United Kingdom; Robert Henderson, Istvan Gyongy, The University of Edinburgh, United Kingdom; Abderrahim Halimi, Jonathan Leach, Heriot Watt University, United Kingdom
+ 
+#1159
+ SLPC: A VRNN-BASED APPROACH FOR STOCHASTIC LIDAR PREDICTION AND COMPLETION IN AUTONOMOUS DRIVING
+George Eskandar, University of Stuttgart, Germany; Alexander Braun, Martin Meinke, Robert Bosch GmbH, Germany; Karim Armanious, Bin Yang, University of Stuttgart, Germany
+ 
+#1171
+ STOCHASTIC PERMUTATION ORDERING WATERSHED
+Olivier Lézoray, University of Caen Normandy, France
+ 
+#1183 
+WEAKLY SUPERVISED SEMANTIC SEGMENTATION LEARNING ON UAV VIDEO SEQUENCES
+Bianca-Cerasela-Zelia Blaga, Sergiu Nedevschi, Technical University of Cluj-Napoca, Romania
+ 
+#6290
+ IMPLEMENTATIONS IMPACT ON ITERATIVE IMAGE PROCESSING FOR EMBEDDED GPU
+Thomas Romera, Andrea Petreto, Florian Lemaitre, Manuel Bouyer, Quentin Meunier, Lionel Lacassagne, LIP6 - Computer Science Laboratory of Paris 6, France
+ 
+#6425
+ FIRE DETECTION AND SEGMENTATION USING YOLOV5 AND U-NET
+Wided Souidene Mseddi, Université Sorbonne Paris Nord, France; Rafik Ghali, Ecole Polytechnique de Tunisie, Tunisia; Marwa Jmal, Telnet Holding, Tunisia; Rabah Attia, Ecole Polytechnique de Tunisie, Tunisia
+ 
+#6429
+ YOLOV5 BASED VISUAL LOCALIZATION FOR AUTONOMOUS VEHICLES
+Wided Souidene Mseddi, Université Sorbonne Paris Nord, France; Mohamed Ali Sedrine, Rabah Attia, Ecole Polytechnique de Tunisie, Tunisia
+mais detalhes»  copiar para minha agenda
+15:30
+ 
+ASMSP-P1-Acoustic Source Localization and Tracking
+Quando
+ter., 24 de agosto, 15:30 – 16:30
+Descrição
+ASMSP-P1- Acoustic Source Localization and Tracking
+
+Q&A session
+
+Session chair: Simon Doclo
+
+
+#1130
+THREE-DIMENSIONAL SOUND SOURCE LOCALIZATION BY DISTRIBUTED MICROPHONE ARRAYS
+Ali Dehghan Firoozabadi, Universidad Tecnológica Metropolitana, Chile; Pablo Irarrázaval, Pontificia Universidad Católica de Chile, Chile; Pablo Adasme, Universidad de Santiago de Chile, Chile; David Zabala-Blanco, Universidad Católica del Maule, Chile; Pablo Palacios-Játiva, Universidad de Chile, Chile; Hugo Durney, Miguel Sanhueza, Universidad Tecnológica Metropolitana, Chile; Cesar Azurdia-Meza, Universidad de Chile, Chile
+ 
+#6282
+ TAMPERE UNIVERSITY ROTATED CIRCULAR ARRAY DATASET
+Arjun Venkat Venkatakrishnan, Pasi Pertilä, Mikko Parviainen, Tampere Univeristy, Finland
+ 
+#6304
+ REAL-TIME TRACKING OF MULTIPLE ACOUSTICAL SOURCES UTILISING RAO-BLACKWELLISED PARTICLE FILTERING
+Leo McCormack, Aalto University, Finland; Archontis Politis, Tampere University, Finland; Simo Särkkä, Ville Pulkki, Aalto University, Finland
+ 
+#6553
+ DIRECTION OF ARRIVAL ESTIMATION OF NOISY SPEECH USING CONVOLUTIONAL RECURRENT NEURAL NETWORKS WITH HIGHER-ORDER AMBISONICS SIGNALS
+Nils Poschadel, Robert Hupke, Stephan Preihs, Jürgen Peissig, Leibniz University Hannover, Germany
+ 
+#6710
+ SPEAKER LOCALIZATION USING FROBENIUS NORM WITH A FOCUS ON CLOSE SPEAKER AND NOISE SOURCE
+Ofer Schwartz, CEVA Inc., Israel
+ 
+#6757
+ DIRECTION-OF-ARRIVAL AND POWER SPECTRAL DENSITY ESTIMATION USING A SINGLE DIRECTIONAL MICROPHONE
+Elisa Tengan Pires de Souza, Maja Taseska, Thomas Dietzen, Toon van Waterschoot, KU Leuven, Belgium
+
+#6815
+DYNAMIC SOURCE LOCALIZATION VIA FINITE-ELEMENT UNDERWATER ACOUSTIC FIELD ESTIMATION
+Graziano Manduzio, Università degli Studi di Firenze, Italy; Nicola Forti, Roberto Sabatini, Paolo Braca, NATO CMRE, Italy
+ 
+#6832
+ IMPROVED FEATURE EXTRACTION FOR CRNN-BASED MULTIPLE SOUND SOURCE LOCALIZATION
+Pierre-Amaury Grumiaux, Srdan Kitic, Orange Labs, France; Laurent Girin, Univ. Grenoble Alpes, GIPSA-lab Grenoble-INP, CNRS, France; Alexandre Guérin, Orange Labs, France
+ 
+#6869
+ DATA DIVERSITY FOR IMPROVING DNN-BASED LOCALIZATION OF CONCURRENT SOUND EVENTS
+Daniel Krause, Archontis Politis, Tampere University, Finland; Konrad Kowalczyk, AGH University of Science and Technology, Poland
+ 
+#6881
+ COMPARISON OF BINAURAL RTF-VECTOR-BASED DIRECTION OF ARRIVAL ESTIMATION METHODS EXPLOITING AN EXTERNAL MICROPHONE
+Daniel Fejgin, Simon Doclo, University of Oldenburg, Germany
+ 
+mais detalhes»  copiar para minha agenda
+15:30
+ 
+ASMSP-P2-Acoustic Sensor Array Processing
+Quando
+ter., 24 de agosto, 15:30 – 16:30
+Descrição
+ASMSP-P2- Acoustic Sensor Array Processing
+
+Q&A session
+
+ Session chair: Sharon Gannot
+
+ 
+#1034
+ ROBUST DIFFERENTIAL BEAMFORMING WITH RECTANGULAR ARRAYS
+Gal Itzhak, Israel Cohen, Technion -- Israel Institute of Technology, Israel; Jacob Benesty, INRS-EMT, University of Quebec, Canada
+ 
+#1065
+ QUADRATIC BEAMFORMING FOR MAGNITUDE ESTIMATION
+Gal Itzhak, Technion -- Israel Institute of Technology, Israel; Jacob Benesty, INRS-EMT, University of Quebec, Canada; Israel Cohen, Technion -- Israel Institute of Technology, Israel
+ 
+#1103
+ BINAURAL BEAM-FORMING WITH DOMINANT SPATIAL CUE PRESERVATION FOR HEARING AIDS
+Vasudha Sathyapriyan, Metin Çalış, Richard C. Hendriks, Delft University of Technology, Netherlands
+ 
+#1235
+ A ROBUST RLS IMPLEMENTATION OF THE ANC BLOCK IN GSC STRUCTURES
+Anna Barnov, Alex Gendelman, Amos Schreibman, Eli Tzirkel-Hancock, General Motors, Israel; Sharon Gannot, Bar-Ilan University, Israel
+ 
+#6270
+ SWITCHING CONVOLUTIONAL BEAMFORMER
+Tomohiro Nakatani, Rintaro Ikeshita, Naoyuki Kamo, Keisuke Kinoshita, Shoko Araki, Hiroshi Sawada, NTT Corporation, Japan
+ 
+#6419
+ SPEAKERS COUNTING BY PROPOSED NESTED MICROPHONE ARRAY IN COMBINATION WITH LIMITED SPACE SRP
+Ali Dehghan Firoozabadi, Universidad Tecnológica Metropolitana, Chile; Pablo Irarrazaval, Pontificia Universidad Católica de Chile, Chile; Pablo Adasme, Universidad de Santiago de Chile, Chile; David Zabala-Blanco, Universidad Católica del Maule, Chile; Pablo Palacios-Játiva, Universidad de Chile, Chile; Hugo Durney, Miguel Sanhueza, Universidad Tecnológica Metropolitana, Chile; Cesar Azurdia-Meza, Universidad de Chile, Chile
+ 
+#6509
+ADAPTIVE MULTI-CHANNEL SIGNAL ENHANCEMENT BASED ON MULTI-SOURCE CONTRIBUTION ESTIMATION
+Jacob Donley, Vladimir Tourbabin, Boaz Rafaely, Ravish Mehra, Facebook, United States
+ 
+#6762
+ SPARSE DISTORTIONLESS BEAMFORMER BASED ON NONCONVEX OPTIMIZATION
+Taiga Kawamura, National Institute of Technology, Tokuyama College, Japan; Kohei Yatabe, Waseda University, Japan; Ryoichi Miyazaki, National Institute of Technology, Tokuyama College, Japan
+ 
+#6801
+ MODAL ESTIMATION IN UNDERWATER ACOUSTICS BY DATA-DRIVEN STRUCTURED SPARSE DECOMPOSITIONS
+Clément Dorffer, Thomas Paviet-Salomon, Gilles Le Chenadec, Angélique Drémeau, ENSTA-Bretagne, France
+ 
+#6953
+GAMMA PROCESS FASTMNMF FOR SEPARATING AN UNKNOWN NUMBER OF SOUND SOURCES
+Yoshiaki Bando, National Institute of Advanced Industrial Science and Technology / RIKEN AIP, Japan; Kouhei Sekiguchi, RIKEN AIP / Kyoto University, Japan; Kazuyoshi Yoshii, Kyoto University / RIKEN AIP, Japan
+mais detalhes»  copiar para minha agenda
+18:00
+ 
+SiG-DML-L1-Neural network learning Part 1
+Quando
+ter., 24 de agosto, 18:00 – 18:30
+Descrição
+ SiG-DML-L1-Neural network learning Part 1
+
+Q&A session 
+
+Session chair: Saikat Chatterjee
+
+#1204
+ NEURAL FACTORIZATION APPLIED TO INTERACTION MATRIX FOR RECOMMENDATION
+Ioannis Sarridis, Constantine Kotropoulos, Aristotle University of Thessaloniki, Greece
+ 
+#1225
+TOWARDS REALISTIC FINANCIAL TIME SERIES GENERATION VIA GENERATIVE ADVERSARIAL LEARNING
+Mihai Dogariu, Liviu-Daniel Stefan, Bogdan Boteanu, University Politehnica of Bucharest, Romania; Claudiu Lamba, Hana TI, Korea (South); Bogdan Ionescu, University Politehnica of Bucharest, Romania
+ 
+#6266
+ADAPTIVE INFERENCE FOR FACE RECOGNITION LEVERAGING DEEP METRIC LEARNING-ENABLED EARLY EXITS
+Nikolaos Passalis, Anastasios Tefas, Aristotle University of Thessaloniki, Greece
+ 
+#6277
+ MULTI-SENSOR FUSION FRAMEWORK USING DISCRIMINATIVE AUTOENCODERS
+Arup Kumar Das, Kriti Kumar, Tata Consultancy Services, India; Angshul Majumdar, Indraprastha Institute of Information Technology Delhi, India; Saurabh Sahu, M. Girish Chandra, Tata Consultancy Services, India
+ 
+#6306
+ INPLACE KNOWLEDGE DISTILLATION WITH TEACHER ASSISTANT FOR IMPROVED TRAINING OF FLEXIBLE DEEP NEURAL NETWORKS
+Alexey Ozerov, Ngoc Q. K. Duong, InterDigital R&D France, France
+mais detalhes»  copiar para minha agenda
+18:00
+ 
+SPCN-L1-Communications over relay channels, network coding
+Quando
+ter., 24 de agosto, 18:00 – 18:30
+Descrição
+  SPCN-L1-Communications over relay channels, network coding
+
+Q&A
+#6389
+OPTIMUM TRAJECTORY PLANNING FOR MULTI-ROTOR UAV RELAYS WITH TILT AND ANTENNA ORIENTATION VARIATIONS
+Daniel Bonilla Licea, Giuseppe Silano, Czech Technical University in Prague, Czech Republic; Mounir Ghogho, International University of Rabat, Morocco; Martin Saska, Czech Technical University in Prague, Czech Republic
+ 
+#6468
+ SINGULAR VALUE DECOMPOSITION FOR COMPRESSION OF LARGE-SCALE RADIO FREQUENCY SIGNALS
+Robert Badger, Minje Kim, Indiana University, United States
+ 
+#6909
+ LOCALIZATION OF MULTIPLE JAMMERS IN WIRELESS SENSOR NETWORKS
+Maria Juhlin, Andreas Jakobsson, Lund University, Sweden
+ 
+#6895
+ LOW-DELAY ANALOG DISTRIBUTED JOINT SOURCE-CHANNEL CODING USING SIRENS
+Ziwei Xuan, Krishna Narayanan, Texas A&M University, United States
+ 
+#6755 
+ENHANCEMENT OF VISIBLE LIGHT BACKSCATTER COMMUNICATION BY OPTIMALLY LOCATING THE TAGS
+Wentao Lin, Deepak Mishra, University of New South Wales, Sydney, Australia
+mais detalhes»  copiar para minha agenda
+18:00
+ 
+SPMuS-L2 -Remote Sensing
+Quando
+ter., 24 de agosto, 18:00 – 18:30
+Descrição
+  SPMuS-L2 -Remote Sensing
+
+Q&A session 
+
+Session chair: Danilo Orlando
+
+
+#6371
+ LEARNING SENTINEL-2 SPECTRAL DYNAMICS FOR LONG-RUN PREDICTIONS USING RESIDUAL NEURAL NETWORKS
+Joaquim Estopinan, Guillaume Tochon, EPITA Research and Development Laboratory (LRDE), France; Lucas Drumetz, IMT Atlantique, France
+ 
+#6464
+HIERARCHICAL PROBABILISTIC GRAPHICAL MODELS AND DEEP CONVOLUTIONAL NEURAL NETWORKS FOR REMOTE SENSING IMAGE CLASSIFICATION
+Martina Pastorino, Gabriele Moser, Sebastiano Serpico, Università degli Studi di Genova, Italy; Josiane Zerubia, INRIA d'Université Côte d'Azur, France
+ 
+#6769 
+IMPROVED TARGET DETECTION AND FEATURE EXTRACTION USING A COMPLEX-VALUED ADAPTIVE SINC FILTER ON RADAR TIME DOMAIN DATA
+Thomas Stadelmayer, Friedrich-Alexander University Erlangen-Nuremberg, Germany; Avik Santra, Infineon Technologies AG, Germany; Markus Stadelmayer, Johannes Kepler University Linz, Germany; Robert Weigel, Friedrich-Alexander University Erlangen-Nuremberg, Germany; Fabian Lurz, Hamburg University of Technology, Germany
+ 
+#6978
+ DIMRAD: A RADAR-BASED PERCEPTION SYSTEM FOR PROSTHETIC LEG BARRIER TRAVERSING
+Fady Aziz, Bassam Elmakhzangy, Christophe Maufroy, Urs Schneider, Marco Huber, Fraunhofer IPA, Germany
+ 
+#1108
+ A SIDELOBE LEVEL MINIMIZATION MISMATCHED FILTER USING CONTINUOUS PHASE FREQUENCY-SHIFT KEYING CODES FOR THE OFF-GRID DELAY PROBLEM
+Maria-Elisavet Chatzitheodoridi, Abigael Taylor, Olivier Rabaste, Hélène Oriot, ONERA - the French Aerospace Lab, France
+mais detalhes»  copiar para minha agenda
+18:00
+ 
+SS4-Recent Advances Towards Robust Data Science
+Quando
+ter., 24 de agosto, 18:00 – 18:30
+Onde
+https://eusipco2021.org/special-sessions/ (mapa)
+Descrição
+SS4- Recent Advances Towards Robust Data Science
+
+Q&A session
+Organisers: Michael Muma, Esa Ollila, Frédéric Pascal
+
+#6260
+ROBUST HYPERSPHERE FITTING FROM NOISY DATA USING AN EM ALGORITHM
+Julien Lesouple, Barbara Pilastre, TéSA, France; Yoann Altmann, Heriot-Watt University, United Kingdom; Jean-Yves Tourneret, INP-ENSEEIHT/IRIT/TéSA, France
+ 
+#6656
+ ROBUST REINFORCEMENT LEARNING-BASED WALD-TYPE DETECTOR FOR MASSIVE MIMO RADAR
+Aya Mostafa Ahmed, Ruhr University Bochum, Germany; Stefano Fortunati, Universit'eParis-Saclay, CNRS, CentraleSup'elec, France; Aydin Sezgin, Ruhr University Bochum, Germany; Maria S. Greco, Fulvio Gini, Universit`a di Pisa,, Italy
+ 
+#6679
+ ROBUST SPECTRAL CLUSTERING: A LOCALITY PRESERVING FEATURE MAPPING BASED ON M-ESTIMATION
+Aylin Tastan, Michael Muma, Abdelhak M. Zoubir, Technische Universität Darmstadt, Germany
+ 
+#6841
+ ON-LINE KRONECKER PRODUCT STRUCTURED COVARIANCE ESTIMATION WITH RIEMANNIAN GEOMETRY FOR T-DISTRIBUTED DATA
+Florent Bouchard, CNRS, France; Arnaud Breloy, University Paris Nanterre, France; Ammar Mian, Guillaume Ginolhac, University Savoie Mont-Blanc, France
+ 
+#6929
+ IMPROVED ESTIMATION OF THE DEGREE OF FREEDOM PARAMETER OF MULTIVARIATE T-DISTRIBUTION
+Frédéric Pascal, CentraleSupélec, University Paris-Saclay, France; Esa Ollila, Aalto University, Finland; Daniel Palomar, The Hong Kong Univ. of Science and Technology, China
+ 
+mais detalhes»  copiar para minha agenda
+18:00
+ 
+ASMSP-L2-Speech Production, Synthesis and Generation
+Quando
+ter., 24 de agosto, 18:00 – 18:30
+Descrição
+ASMSP-L2- Speech Production, Synthesis and Generation
+
+Q&A
+ 
+#1063
+ SPEAKER VERIFICATION-DERIVED LOSS AND DATA AUGMENTATION FOR DNN-BASED MULTISPEAKER SPEECH SYNTHESIS
+Beáta Lőrincz, Adriana Stan, Mircea Giurgiu, Technical University of Cluj-Napoca, Romania
+ 
+#1161
+ IMPROVING TRANSFER OF EXPRESSIVITY FOR END-TO-END MULTISPEAKER TEXT-TO-SPEECH SYNTHESIS
+Ajinkya Kulkarni, Vincent Colotte, Denis Jouvet, Universite de Lorraine, CNRS, Inria, LORIA, France
+ 
+#1185
+TOWARDS END-TO-END F0 VOICE CONVERSION BASED ON DUAL-GAN WITH CONVOLUTIONAL WAVELET KERNELS
+Clément Le Moine, IRCAM, CNRS, Sorbonne Université, STMS lab, France; Nicolas Obin, Axel Roebel, STMS Lab - Ircam, CNRS, Sorbonne Université, France
+ 
+#6451
+A FAST AND LIGHTWEIGHT TEXT-TO-SPEECH MODEL WITH SPECTRUM AND WAVEFORM ALIGNMENT ALGORITHMS
+Kihyuk Jeong, Huu-Kim Nguyen, Hong-Goo Kang, yonsei university, Korea (South)
+ 
+#6689
+SPEAKER DISENTANGLEMENT IN VIDEO-TO-SPEECH CONVERSION
+Dan Oneață, University Politehnica of Bucharest, Romania; Adriana Stan, Technical University of Cluj-Napoca, Romania; Horia Cucu, University Politehnica of Bucharest, Romania
+mais detalhes»  copiar para minha agenda
+18:00
+ 
+SS2 - Signal Processing and Machine Learning for Large or Spatially Distributed Microphone Arrays - Part 1
+Quando
+ter., 24 de agosto, 18:00 – 18:30
+Onde
+https://eusipco2021.org/special-sessions/ (mapa)
+Descrição
+SS2: SIGNAL PROCESSING AND MACHINE LEARNING FOR SPATIALLY DISTRIBUTED MICROPHONES Part 1
+
+Q&A session
+Organisers: Ryan M. Corey (Uni Illinois), Reinhold Haeb-Umbach (Paderborn Uni), Robin Scheibler (LINE Corporation), Romain Serizel (Universite de Lorraine)
+
+#6391 
+ALGORITHM FOR INDEPENDENT VECTOR EXTRACTION BASED ON SEMI-TIME-VARIANT MIXING MODEL
+Zbyněk Koldovský, Technical University of Liberec, Czech Republic; Václav Kautský, Czech Technical University, Czech Republic; Tomáš Kounovský, Jaroslav Čmejla, Technical University of Liberec, Czech Republic
+ 
+#6404
+ EXTENSION OF TIME-DIFFERENCE-OF-ARRIVAL SELF CALIBRATION SOLUTIONS USING ROBUST MULTILATERATION
+Kalle Åström, Martin Larsson, Gabrielle Flood, Magnus Oskarsson, Lund University, Sweden
+ 
+#6946
+ACOUSTIC SCENE CLASSIFICATION USING MULTICHANNEL OBSERVATION WITH PARTIALLY MISSING CHANNELS
+Keisuke Imoto, Doshisha University, Japan
+ 
+#6950
+ HIGH/LOW MODEL FOR SCALABLE MULTIMICROPHONE ENHANCEMENT OF SPEECH MIXTURES
+Ryan Corey, Andrew Singer, University of Illinois Urbana-Champaign, United States
+ 
+#6506
+ A FUSION METHOD BASED ON CLASS ROTATIONS FOR DNN-DOA ESTIMATION ON SPHERICAL MICROPHONE ARRAY
+, Israel Mendoza Velázquez, Yi Ren, Yoichi Haneda, The University of Electro-Communications, Japan; Héctor Manuel Pérez Meana, National Polytechnic Institute of Mexico, Mexico
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mais detalhes»  copiar para minha agenda
+quarta-feira, 25 de agosto
+ 
+eusipco 2021 online platform open
+09:30
+ 
+Keynote: Opponency revisited
+12:00
+ 
+SPCN-L2-MIMO and Massive MIMO Communications
+Quando
+qua., 25 de agosto, 12:00 – 12:30
+Descrição
+  SPCN-L2-MIMO and Massive MIMO Communications
+
+Q&A
+#6663 
+DEEP REINFORCEMENT LEARNING FOR RESOURCE ALLOCATION IN MASSIVE MIMO
+Liang Chen, Fanglei Sun, Kai Li, Ruiqing Chen, Yang Yang, Jun Wang, ShanghaiTech University, China
+ 
+#6588
+ LOCAL UPLINK PROCESSING IN CELL-FREE NETWORKS: A NEW APPROACH
+Vida Ranjbar, Marc Moonen, Sofie Pollin, KU Leuven, Belgium
+ 
+#6323
+LOW-COMPLEXITY ZERO-FORCING PRECODING FOR XL-MIMO TRANSMISSIONS
+Lucas Nogueira Ribeiro, TU Ilmenau, Germany; Stefan Schwarz, TU Wien, Austria; Martin Haardt, TU Ilmenau, Germany
+ 
+#1217
+ A DEEP NEURAL ARCHITECTURE FOR REAL-TIME NODE SCHEDULING IN UPLINK CELL-FREE MASSIVE MIMO
+Mamoun Guenach, Ali Gorji, Andre Bourdoux, Imec, Belgium
+ 
+#6642 
+ADAPTIVE MULTI-OBJECTIVE REINFORCEMENT LEARNING FOR PARETO FRONTIER APPROXIMATION: A CASE STUDY OF RESOURCE ALLOCATION NETWORK IN MASSIVE MIMO
+Ruiqing Chen, Fanglei Sun, Liang Chen, Kai Li, Liantao Wu, Shanghaitech University, China; Jun Wang, University College London, China; Yang Yang, Shanghaitech University, China
+mais detalhes»  copiar para minha agenda
+12:00
+ 
+SS6-Signal Processing for Next Generation of Flexible Satellite Communications Arrays
+Quando
+qua., 25 de agosto, 12:00 – 12:30
+Onde
+https://eusipco2021.org/special-sessions/ (mapa)
+Descrição
+  SS6-Signal Processing for Next Generation of Flexible Satellite Communications Arrays
+
+Q&A session
+Organisers:  Eva Lagunas, University of Luxembourg (Luxembourg), Carlos Mosquera, atlanTTic – University of Vigo (Spain)
+
+
+
+#1097
+ NON-ORTHOGONAL MULTIPLE ACCESS ENABLED TWO-LAYER GEO/LEO SATELLITE NETWORK
+Ruixing Ge, Jian Cheng, Army Engineering University of PLA, China; Kang An, National University of Defense Technology, China; Gan Zheng, Loughborough University, United Kingdom
+ 
+#5244
+ DISTORTIONS CHARACTERIZATION FOR DYNAMIC CARRIER ALLOCATION IN ULTRA HIGH-THROUGHPUT SATELLITES
+Tony Colin, Thomas Delamotte, Andreas Knopp, Bundeswehr University Munich, Germany
+ 
+#6495
+ SATELLITE BROADBAND CAPACITY-ON-DEMAND: DYNAMIC BEAM ILLUMINATION WITH SELECTIVE PRECODING
+Lin Chen, Eva Lagunas, Symeon Chatzinotas, Bjorn Ottersten, University of Luxembourg, Luxembourg
+ 
+#6628
+ FLEXIBLE BEAM-USER MAPPING FOR MULTIBEAM SATELLITES
+Tomás Ramirez, Carlos Mosquera, University of Vigo, Spain; Nader Alagha, European Space Agency, Netherlands
+ 
+#6809
+ CLOSED-FORM MULTICAST PRECODING FOR SATELLITE FLEXIBLE PAYLOADS
+Miguel Angel Vazquez, Xavier Artiga, Ana Pérez, Centre Tecnològic de Telecomunicacions de Catalunya, Spain
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mais detalhes»  copiar para minha agenda
+12:00
+ 
+VIP-L2-Image Enhancement and Feature Extraction
+Quando
+qua., 25 de agosto, 12:00 – 12:30
+Descrição
+  VIP-L2-Image Enhancement and Feature Extraction
+
+Q&A
+
+#6542
+ FAST IMAGE SEGMENTATION WITH CONTEXTUAL SCAN AND MARKOV CHAINS
+Clément Fernandes, Segula Matra Automotive, France; Thomas Monti, Emmanuel Monfrini, Wojciech Pieczynski, Institut Polytechnique de Paris, France
+ 
+#1170 
+FAST PROCESS FOR CLASSIFYING STRUCTURAL IMAGE PAIRS USING WEIBULL PARAMETERS EXTRACTED FROM UNDERSAMPLED LOCAL DISSIMILARITY MAPS
+Moustapha DIAW, Agnès DELAHAIES, Jérôme LANDRE, Frédéric MORAIN-NICOLIER, Université de Reims Champagne-Ardenne, France; Florent RETRAINT, Université de Technologie de Troyes, France
+ 
+#6571
+LINN: LIFTING INSPIRED INVERTIBLE NEURAL NETWORK FOR IMAGE DENOISING
+Jun-Jie Huang, Pier Luigi Dragotti, Imperial College London, United Kingdom
+ 
+#6339
+ LONG-AWAITED NEXT-GENERATION ROAD DAMAGE DETECTION AND LOCALIZATION SYSTEM IS FINALLY HERE
+Rui Fan, UC San Diego, United States; Jintao Cheng, South China Normal University, China; Yang Yu, HKUST, China; Juncan Deng, South China Normal University, China; George Giakos, Manhattan College, United States; Ioannis Pitas, Aristotle University of Thessaloniki, Greece
+ 
+#1099
+ POISSON IMAGE DECONVOLUTION BY A PLUG-AND-PLAY QUANTUM DENOISING SCHEME
+Sayantan Dutta, Adrian Basarab, Institut de Recherche en Informatique de Toulouse, UMR CNRS 5505, Université de Toulouse, France; Bertrand Georgeot, Laboratoire de Physique Théorique, IRSAMC, Université de Toulouse, CNRS, UPS, France; Denis Kouamé, Institut de Recherche en Informatique de Toulouse, UMR CNRS 5505, Université de Toulouse, France
+mais detalhes»  copiar para minha agenda
+12:00
+ 
+ASMSP-L3-Audio and Speech Modeling
+Quando
+qua., 25 de agosto, 12:00 – 12:30
+Descrição
+ASMSP-L3-Audio and Speech Modeling
+ 
+Q&A
+
+#1162
+IMPROVING CONVERGENCE RATE OF SIGN ALGORITHM USING NATURAL GRADIENT METHOD
+Taiyo Mineo, Hayaru Shouno, The University of Electro-Communications, Japan
+ 
+#6286
+AN AUDIO-BASED DEEP LEARNING FRAMEWORK FOR BBC TELEVISION PROGRAMME CLASSIFICATION
+LAM PHAM, Austrian Institute of Technology, Austria; Chris Baume, BBC, United Kingdom; Qiuqiang Kong, ByteDance, United States; Tassadaq Hussain, Wenwu Wang, Mark Plumbley, University of Surrey, United Kingdom
+ 
+#6505
+ END-TO-END MISPRONUNCIATION DETECTION AND DIAGNOSIS FROM RAW WAVEFORMS
+Bi-Cheng Yan, Berlin Chen, National Taiwan Normal University, Taiwan, Taiwan
+ 
+#6625
+ F0-ESTIMATION-BASED PRIMARY AMBIENT EXTRACTION FOR STEREO SIGNALS
+Hanxin Zhu, Chuang Shi, Yue Wang, University of Electronic Science and Technology of China, China
+ 
+#6269
+ PHASE RECONSTRUCTION FOR ARTIFICIAL BANDWIDTH EXTENSION TOWARD MUSICAL INSTRUMENT SOUND SIGNAL
+Yuya Hosoda, Osaka university, Japan; Arata Kawamura, Kyoto Sangyo university, Japan; Youji IIguni, Osaka university, Japan
+ 
+mais detalhes»  copiar para minha agenda
+12:00
+ 
+BforSec-L1 - Information Security and Forensics (5p)
+Quando
+qua., 25 de agosto, 12:00 – 12:30
+Descrição
+BforSec-L1 - Information Security and Forensics (5p)
+
+Q&A session
+
+session chair:  Fernando Pérez-González
+
+#1037
+ BENFORD'S LAW: HAMMERING A SQUARE PEG INTO A ROUND HOLE?
+Félix Balado, Guénolé Silvestre, University College Dublin, Ireland
+ 
+#6247
+ HYBRID ARCHITECTURE FOR GENDER RECOGNITION USING SMARTPHONE MOTION SENSORS
+ERHAN DAVARCI, EMIN ANARIM, Bogazici University, Turkey
+ 
+#6463
+ COMBINING FORENSICS AND PRIVACY REQUIREMENTS FOR DIGITAL IMAGES
+Pauline Puteaux, Univ. Montpellier, CNRS, LIRMM, France; Vincent Itier, IMT Lille Douai, Univ. Lille, CNRS, Centrale Lille, CRIStAL, France; Patrick Bas, CNRS, Univ. Lille, Centrale Lille, CRIStAL, France
+ 
+#6578 
+DETECTION OF GAN-SYNTHESIZED STREET VIDEOS
+Omran Alamayreh, Mauro Barni, University of Siena, Italy
+mais detalhes»  copiar para minha agenda
+12:00
+ 
+SiG-DML-L2-Neural network learning Part 2
+Quando
+qua., 25 de agosto, 12:00 – 12:30
+Descrição
+ SiG-DML-L2-Neural network learning Part 2
+
+Q&A session 
+
+session chair: Tomoko Matsui
+
+
+#6337
+ DISTRIBUTED META-LEARNING WITH NETWORKED AGENTS
+Mert Kayaalp, Stefan Vlaski, Ali H. Sayed, École Polytechnique Fédérale de Lausanne, Switzerland
+ 
+#6716
+ USE OF DETERMINISTIC TRANSFORMS TO DESIGN WEIGHT MATRICES OF A NEURAL NETWORK
+Pol Grau Jurado, Xinyue Liang, Alireza M. Javid, Saikat Chatterjee, KTH Royal Institute of Technology, Sweden
+ 
+#6960 
+MULTI-SOURCE DOMAIN ADAPTATION WITH SINKHORN BARYCENTER
+Tatsuya Komatsu, LINE Corporation, Japan; Tomoko Matsui, The Institute of Statistical Mathematics, Japan; Junbin Gao, The University of Sydney, Australia
+ 
+#6723
+ DATA SELECTIVE DEEP NEURAL NETWORKS FOR IMAGE CLASSIFICATION
+Marcele Mendonça, Jonathas Ferreira, Paulo Diniz, Federal University of Rio de Janeiro, Brazil
+ 
+#6447 
+MULTI-TASK SUPERVISED LEARNING VIA CROSS-LEARNING
+Juan Cervino, University of Pennsylvania, United States; Juan Andres Bazerque, Universidad de la Republica, Uruguay; Miguel Calvo-Fullana, Massachusetts Institute of Technology, United States; Alejandro Ribeiro, University of Pennsylvania, United States
+ 
+mais detalhes»  copiar para minha agenda
+12:40
+ 
+facebook
+15:30
+ 
+ASMSP-P3-Source Separation and Signal Enhancement
+Quando
+qua., 25 de agosto, 15:30 – 16:30
+Descrição
+  ASMSP-P3-Source Separation and Signal Enhancement
+
+Q&A session 
+
+Session chair:  Petros Maragos
+
+#1122
+ MULTI-TASK SINGLE CHANNEL SPEECH ENHANCEMENT USING SPEECH PRESENCE PROBABILITY AS A SECONDARY TASK TRAINING TARGET
+Lei Wang, Jie Zhu, Shanghai Jiao Tong University, China; Ina Kodrasi, Idiap Research Institute, Switzerland
+ 
+#1177
+ DEEP NEURAL NETWORK BASED LOW-LATENCY SPEECH SEPARATION WITH ASYMMETRIC ANALYSIS-SYNTHESIS WINDOW PAIR
+Shanshan Wang, Gaurav Naithani, Archontis Politis, Tuomas Virtanen, Tampere University, Finland
+ 
+#1243
+ GENERALIZATION OF AN ACTIVE SET NEWTON ALGORITHM WITH ALPHA-BETA DIVERGENCES FOR AUDIO SEPARATION
+Auxiliadora Sarmiento, Iván Durán Díaz, Irene Fondón, Sergio Cruces, Universidad de Sevilla, Spain
+ 
+#6378
+ UNSUPERVISED BLIND SOURCE SEPARATION WITH VARIATIONAL AUTO-ENCODERS
+Julian Neri, McGill University, Canada; Roland Badeau, Telecom Paris, France; Philippe Depalle, McGill University, Canada
+ 
+#6622
+SIMULTANEOUS DECLIPPING AND BEAMFORMING VIA ALTERNATING DIRECTION METHOD OF MULTIPLIERS
+Yoshiki Masuyama, Tomoro Tanaka, Kohei Yatabe, Tsubasa Kusano, Yasuhiro Oikawa, Waseda University, Japan
+ 
+#6643
+SAMPLING-FREQUENCY-INDEPENDENT AUDIO SOURCE SEPARATION USING CONVOLUTION LAYER BASED ON IMPULSE INVARIANT METHOD
+Koichi Saito, Tomohiko Nakamura, the University of Tokyo, Japan; Kohei Yatabe, Waseda University, Japan; Yuma Koizumi, NTT Corporation, Japan; Hiroshi Saruwatari, the University of Tokyo, Japan
+ 
+#6661
+INDEPENDENT DEEPLY LEARNED TENSOR ANALYSIS FOR DETERMINED AUDIO SOURCE SEPARATION
+Naoki Narisawa, The University of Tokyo, Japan; Rintaro Ikeshita, NTT Corporation, Japan; Norihiro Takamune, The University of Tokyo, Japan; Daichi Kiramura, Kagawa College, Japan; Tomohiko Nakamura, Hiroshi Saruwatari, The University of Tokyo, Japan; Tomohiro Nakatani, NTT Corporation, Japan
+ 
+#6743
+ EMPIRICAL BAYESIAN INDEPENDENT DEEPLY LEARNED MATRIX ANALYSIS FOR MULTICHANNEL AUDIO SOURCE SEPARATION
+Takuya Hasumi, Tomohiko Nakamura, Norihiro Takamune, Hiroshi Saruwatari, The University of Tokyo, Japan; Daichi Kitamura, National Institute of Technology, Kagawa College, Japan; Yu Takahashi, Kazunobu Kondo, Yamaha Corporation, Japan
+ 
+#6766
+ A COMPARISON BETWEEN OVERLAP-SAVE AND WEIGHTED OVERLAP-ADD FILTER BANKS FOR MULTI-CHANNEL WIENER FILTER BASED NOISE REDUCTION
+Santiago Ruiz, Thomas Dietzen, Toon van Waterschoot, Marc Moonen, KU Leuven, Belgium
+ 
+#6897
+ HTMD-NET: A HYBRID MASKING-DENOISING APPROACH TO TIME-DOMAIN MONAURAL SINGING VOICE SEPARATION
+Christos Garoufis, Athanasia Zlatintsi, Petros Maragos, National Technical University of Athens, Greece
+ 
+#6417
+NEURAL NETWORKS USING FULL-BAND AND SUBBAND SPATIAL FEATURES FOR MASK BASED SOURCE SEPARATION
+Alexander Bohlender, Ghent University - imec, Belgium; Ann Spriet, Wouter Tirry, Goodix Technology (Belgium) B.V., Belgium; Nilesh Madhu, Ghent University - imec, Belgium
+mais detalhes»  copiar para minha agenda
+15:30
+ 
+SiG-DML-P1-Machine Learning Part 1
+Quando
+qua., 25 de agosto, 15:30 – 16:30
+Descrição
+  SiG-DML-P1-Machine Learning Part 1
+
+Q&A session
+
+session chair: Emilie Chouzenoux 
+#6528
+ MODEL SELECTION CRITERION FOR MULTIVARIATE BOUNDED ASYMMETRIC GAUSSIAN MIXTURE MODEL
+Zixiang Xian, Muhammad Azam, Concordia University, Canada; Manar Amayri, Grenoble Institute of Technology, France; Nizar Bouguila, Concordia University, Canada
+ 
+#6821
+SECURE COMPUTATION OF GAUSSIAN PROCESS REGRESSION FOR DATA ANALYSIS
+Takayuki Nakachi, Yitu Wang, Nippon Telegraph and Telephone Corporation, Japan
+ 
+#6623
+ CLASSIFICATION ERROR APPROXIMATION OF A COMPRESSED LINEAR SOFTMAX LAYER
+Diana Resmerita, Université Côte d'azur/Kalray, France; Rodrigo Cabral Farias, Lionel Fillatre, Université Côte d'Azur, France; Benoît Dupont de Dinechin, Kalray, France
+ 
+#6678
+ STABILITY OF SPHERICAL CONVOLUTIONAL NEURAL NETWORKS TO ROTATION DIFFEOMORPHISMS
+Zhan Gao, University of Pennsylvania, United States; Fernando Gama, University of California, Berkeley, United States; Alejandro Ribeiro, University of Pennsylvania, United States
+ 
+#6380
+ LEVERAGING PRE-IMAGES TO DISCOVER NONLINEAR RELATIONSHIPS IN MULTIVARIATE ENVIRONMENTS
+Ali Vosoughi, Axel Wismuller, University of Rochester, United States
+ 
+#1020
+INFORMATION-THEORETIC BOUNDS ON TRANSFER GENERALIZATION GAP BASED ON JENSEN-SHANNON DIVERGENCE
+Sharu Theresa Jose, Osvaldo Simeone, King's College London, United Kingdom
+ 
+#6368
+ DEEP ORTHOGONAL MATRIX FACTORIZATION AS A HIERARCHICAL CLUSTERING TECHNIQUE
+Pierre De Handschutter, Nicolas Gillis, UMONS, Belgium
+ 
+#1227
+LOW-RANK STATE-ACTION VALUE-FUNCTION APPROXIMATION
+Sergio Rozada, Víctor Tenorio, Antonio G. Marques, Universidad Rey Juan Carlos, Spain
+ 
+#1048
+ STOCHASTIC BACKPROPAGATION THROUGH FOURIER TRANSFORMS
+Amine Echraibi, Joachim Flocon Cholet, Stéphane Gosselin, Orange Labs, France; Sandrine Vaton, Institut Mines Télécom Atlantique, France
+ 
+#6455 
+REGRESSION WITH DEEP NEURAL NETWORKS: GENERALIZATION ERROR GUARANTEES, LEARNING ALGORITHMS, AND REGULARIZERS
+Jaweria Amjad, Zhaoyan Lyu, Miguel R. D. Rodrigues, University College London, United Kingdom
+ 
+mais detalhes»  copiar para minha agenda
+15:30
+ 
+SPMuS-P1 -Signal Processing over Graphs and Networks
+Quando
+qua., 25 de agosto, 15:30 – 16:30
+Descrição
+  SPMuS-P1 -Signal Processing over Graphs and Networks
+
+Q&A session
+
+session chair: Gonzalo Mateos
+
+#1066
+ CHANGE POINT DETECTION IN WEIGHTED AND DIRECTED RANDOM DOT PRODUCT GRAPHS
+Federico Larroca, Paola Bermolen, Marcelo Fiori, Facultad de Ingeniería, Universidad de la Republica, Uruguay; Gonzalo Mateos, University of Rochester, United States
+ 
+#6336
+SAMPLING GRAPH SIGNALS WITH SPARSE DICTIONARY REPRESENTATION
+Kaiwen Zhang, Circuits and Systems Group, Delft University of Technology, Netherlands; Mario Coutino, Delft University of Technology, Netherlands; Elvin Isufi, Multimedia Computing Group, Delft University of Technology, Netherlands
+ 
+#6555 
+ONLINE GRAPH LEARNING UNDER SMOOTHNESS PRIORS
+Seyed Saman Saboksayr, Gonzalo Mateos, Mujdat Cetin, University of Rochester, United States
+ 
+#6688 
+DECENTRALIZED EIGENDECOMPOSITION FOR ONLINE LEARNING OVER GRAPHS
+Yufan Fan, Minh Trinh-Hoang, Marius Pesavento, TU Darmstadt, Germany
+ 
+#6772
+ LEARNING MULTI-LAYER GRAPHS AND A COMMON REPRESENTATION FOR CLUSTERING
+Sravanthi Gurugubelli, Sundeep Prabhakar Chepuri, Indian Institute of Science, India
+ 
+#6785
+ SEISMIC FAULT ANALYSIS USING GRAPH SIGNAL REGULARIZATION
+Patitapaban Palo, Aurobinda Routray, IIT Kharagpur, India; Sanjai Kumar Singh, GEOPIC, ONGC, India
+ 
+#6299
+DISTRIBUTED LEARNING OVER NETWORKS WITH NON-SMOOTH REGULARIZERS AND FEATURE PARTITIONING
+Cristiano Gratton, NTNU, Norway; Naveen K. D. Venkategowda, Department of Science and Technology, Linköping University, Norrköping, Sweden; Reza Arablouei, CSIRO’s Data61, Australia; Stefan Werner, NTNU, Norway
+ 
+#6738
+ STABILITY OF NEURAL NETWORKS ON RIEMANNIAN MANIFOLDS
+Zhiyang Wang, Luana Ruiz, Alejandro Ribeiro, University of Pennsylvania, United States
+ 
+#1042
+ SPARSE-GROUP NON-CONVEX PENALIZED MULTI-ATTRIBUTE GRAPHICAL MODEL SELECTION
+Jitendra Tugnait, Auburn University, United States
+ 
+#6855
+ QUANTIZATION IN GRAPH CONVOLUTIONAL NEURAL NETWORKS
+Leila Ben Saad, Baltasar Beferull Lozano, University of Agder, Norway
+ 
+mais detalhes»  copiar para minha agenda
+15:30
+ 
+TMTSP-P2 - Optimization Methods
+Quando
+qua., 25 de agosto, 15:30 – 16:30
+Descrição
+  TMTSP-P2 - Optimization Methods
+
+Q&A session
+
+
+Session chair: Paul Rodriguez
+
+#1195
+ SECOND-ORDER TRUST-REGION OPTIMIZATION FOR DATA-LIMITED INFERENCE
+Aditya Ranganath, Omar Deguchy, Mukesh Singhal, Roummel Marcia, University of California, Merced, United States
+ 
+#1232
+ ROBUSTIFYING STABILITY OF THE FAST ITERATIVE SHRINKAGE THRESHOLDING ALGORITHM FOR L1 REGULARIZED PROBLEMS
+Gustavo Silva, Paul Rodriguez, Pontificia Universidad Catolica del Peru, Peru
+ 
+#6317
+ STOCHASTIC MAJORIZE-MINIMIZE SUBSPACE ALGORITHM WITH APPLICATION TO BINARY CLASSIFICATION
+Jean-Baptiste Fest, Émilie Chouzenoux, Université Paris-Saclay, INRIA, CentraleSupélec, France
+ 
+#6439
+A PENALIZED SUBSPACE STRATEGY FOR SOLVING LARGE-SCALE CONSTRAINED OPTIMIZATION PROBLEMS
+Ségolène Martin, Emilie Chouzenoux, Jean-Christophe Pesquet, Université Paris-Saclay, Inria, CentraleSupelec, Centre de Vision Numerique, France
+ 
+#6462
+EXACT BIOBJECTIVE K-SPARSE NONNEGATIVE LEAST SQUARES
+Nicolas Nadisic, Arnaud Vandaele, Nicolas Gillis, Université de Mons, Belgium; Jeremy E Cohen, Université de Rennes, INRIA, CNRS, IRISA, France
+ 
+#6538
+ FAST ALGORITHM FOR COMPLEX-NMF WITH APPLICATION TO SOURCE SEPARATION
+Andersen Ang, University of Waterloo, Canada; Valentin Leplat, Universite catholique de Louvain, Belgium; Nicolas Gillis, Universite de Mons, Belgium
+ 
+#6558
+LASRY–LIONS ENVELOPES AND NONCONVEX OPTIMIZATION: A HOMOTOPY APPROACH
+Miguel Simões, KU Leuven, Belgium; Andreas Themelis, Kyushu University, Japan; Panagiotis Patrinos, KU Leuven, Belgium
+ 
+#6885
+GPU-BASED IMPLEMENTATIONS OF MM ALGORITHMS. APPLICATION TO SPECTROSCOPY SIGNAL RESTORATION
+Mouna GHARBI, Emilie CHOUZENOUX, Jean-Christophe PESQUET, Université Paris-Saclay, Inria, CentraleSupélec, France; Laurent DUVAL, IFP Energies nouvelles, France
+ 
+#1137
+ VAST PORTFOLIO SELECTION WITH SUBMODULAR NORM REGULARIZATION
+Zepeng Zhang, Ziping Zhao, ShanghaiTech University, China
+ 
+#1091 
+JOINT DESIGN OF TRANSMIT WAVEFORMS AND RECEIVE FILTERS FOR MIMO RADAR VIA MANIFOLD OPTIMIZATION
+Huanyu Zhang, Ziping Zhao, ShanghaiTech University, China
+mais detalhes»  copiar para minha agenda
+15:30
+ 
+ASMSP-P4-Signal Processing for Music
+Quando
+qua., 25 de agosto, 15:30 – 16:30
+Descrição
+ ASMSP-P4-Signal Processing for Music
+
+Q&A
+
+#1026
+ SPEECH ENHANCEMENT QUALITY ASSESSMENT BASED ON ASPECT-SPECIFIC QUALITIES: A PRELIMINARY ANALYSIS
+Benjamin Stahl, Alois Sontacchi, University of Music and Performing Arts, Austria
+ 
+#1079
+ MULTI-MODAL CONDITIONAL BOUNDING BOX REGRESSION FOR MUSIC SCORE FOLLOWING
+Florian Henkel, Gerhard Widmer, Johannes Kepler University, Austria
+ 
+#1203
+ PREDOMINANT JAZZ INSTRUMENT RECOGNITION: EMPIRICAL STUDIES ON NEURAL NETWORK ARCHITECTURES
+Jakob Abeßer, Jaydeep Chauhan, Prateek Pradeep Pillai Pillai, Michael Taenzer, Stylianos I. Mimilakis, Fraunhofer IDMT, Germany
+ 
+#6330
+HANDLING STRUCTURAL MISMATCHES IN REAL-TIME OPERA TRACKING
+Charles Brazier, Gerhard Widmer, JKU University, Austria
+
+#6491
+ ANALYSIS AND IMPROVEMENTS OF THE CEPSTRUM METHOD FOR FUNDAMENTAL FREQUENCY ESTIMATION IN MUSIC SIGNALS
+Johannes Gauer, Diana Kleingarn, Rainer Martin, Ruhr-Universität Bochum, Germany
+ 
+#6499 
+ATTENTION AUGMENTED CNNS FOR MUSICAL INSTRUMENT IDENTIFICATION
+Andrew Wise, Anthony Maida, Ashok Kumar, University of Louisiana at Lafayette, United States
+ 
+#6598
+ VIOLINIST IDENTIFICATION BASED ON VIBRATO FEATURES
+Yudong Zhao, Changhong Wang, György Fazekas, Emmanouil Benetos, Mark Sandler, Queen Mary University of London, United Kingdom
+ 
+#6733
+ EXPLOITING TEMPORAL DEPENDENCIES FOR CROSS-MODAL MUSIC PIECE IDENTIFICATION
+Luis Carvalho, Gerhard Widmer, Johannes Kepler University, Austria
+ 
+#6906
+ SOURCE SEPARATION-BASED DATA AUGMENTATION FOR IMPROVED JOINT BEAT AND DOWNBEAT TRACKING
+Ching-Yu Chiu, Joann Ching, Academia Sinica, Taiwan, Taiwan; Wen-Yi Hsiao, Yu-Hua Chen, Taiwan AI Labs, Taiwan; Alvin Wen-Yu Su, National Cheng Kung University, Taiwan; Yi-Hsuan Yang, Academia Sinica, Taiwan, Taiwan
+ 
+#6927 
+A MULTITASK TEACHER-STUDENT FRAMEWORK FOR PERCEPTUAL AUDIO QUALITY ASSESSMENT
+Chih-Wei Wu, Phillip A. Williams, William Wolcott, Netflix, Inc., United States
+mais detalhes»  copiar para minha agenda
+15:30
+ 
+BISA-P1: Analysis and interpretation of biomed signals and images
+Quando
+qua., 25 de agosto, 15:30 – 16:30
+Descrição
+BISA-P1: Analysis and interpretation of biomed signals and images
+
+Q&A
+
+#1083
+ AUTOMATIC ARTIFACT REMOVAL OF RESTING-STATE FMRI WITH DEEP NEURAL NETWORKS
+Christos Theodoropoulos, Christos Chatzichristos, Sabine Van Huffel, KU Leuven, Belgium
+ 
+#6410
+ CLRGAZE: CONTRASTIVE LEARNING OF REPRESENTATIONS FOR EYE MOVEMENT SIGNALS
+Louise Gillian C. Bautista, Prospero C. Naval, Jr., University of the Philippines, Philippines
+ 
+#6541
+ HYBRID DEEP NEURAL NETWORK FOR BRACHIAL PLEXUS NERVE SEGMENTATION IN ULTRASOUND IMAGES
+Juul van Boxtel, Vincent Vousten, Josien Pluim, Nastaran Mohammadian Rad, Eindhoven University of Technology, Netherlands
+ 
+#6564 
+DEEP LEARNING OF ELASTIC 3D SHAPES FOR CRYO ELECTRON MICROSCOPY ANALYSIS OF CONTINUOUS CONFORMATIONAL CHANGES OF BIOMOLECULES
+Ilyes Hamitouche, Slavica Jonić, CNRS & Sorbonne Université, France
+ 
+#6721 
+DEEP LEARNING BASED NON-INVASIVE DIABETES PREDICTOR USING PHOTOPLETHYSMOGRAPHY SIGNALS
+Venkatesh Bharadwaj Srinivasan, Purdue University, United States; Foroohar Foroozan, Analog Devices, United States
+ 
+#6797
+ EYE-GAZE ESTIMATION WITH HEOG AND NECK EMG USING DEEP NEURAL NETWORKS
+Zhen Fu, Bo Wang, Peking University, China; Fei Chen, Southern University of Science and Technology, China; Xihong Wu, Jing Chen, Peking University, China
+ 
+#6493
+ A LINEAR REGRESSION-BASED MACHINE LEARNING PIPELINE FOR THE DISCOVERY OF CLINICALLY RELEVANT CORRELATES OF GAIT SPEED RESERVE FROM MULTIPLE PHYSIOLOGICAL SYSTEMS
+James Davis, Silvin P. Knight, Rossella Rizzo, Orna A. Donoghue, Rose Anne Kenny, Roman Romero-Ortuno, Trinity College Dublin, Ireland
+ 
+#6862
+ A DEEP EMBEDDED FRAMEWORK FOR SPITZOID NEOPLASM CLASSIFICATION USING DNA METHYLATION DATA
+Rocío del Amor, Adrián Colomer, Universitat Politècnica de València, Spain; Carlos Monteagudo, Universidad de Valencia, Spain; María José Garzón, EpiDisease, Spain; José Luis García-Giménez, INCLIVA, Spain; Valery Naranjo, Universitat Politècnica de València, Spain
+ 
+#6904
+ ADEQUATELY WIDE 1D CNN FACILITATES IMPROVED EEG BASED VISUAL OBJECT RECOGNITION
+Subhranil Bagchi, Deepti R. Bathula, Indian Institute of Technology Ropar, India
+ 
+#6938
+ A SELF-TRAINING FRAMEWORK FOR GLAUCOMA GRADING IN OCT B-SCANS
+Gabriel García, Adrián Colomer, Universitat Politècnica de València, Spain; Rafael Verdú-Monedero, Universidad Politécnica de Cartagena, Spain; José Dolz, École de technologie supérieure, Canada; Valery Naranjo, Universitat Politècnica de València (UPV), Spain
+mais detalhes»  copiar para minha agenda
+18:00
+ 
+SS10 - Signal Processing Advances in Cell-Free Massive MIMO
+Quando
+qua., 25 de agosto, 18:00 – 18:30
+Onde
+https://eusipco2021.org/special-sessions/ (mapa)
+Descrição
+ SS10 - Signal Processing Advances in Cell-Free Massive MIMO
+
+Q&A session
+Organisers: Michalis Matthaiou, Queen’s University Belfast, UK, Hien Quoc Ngo, Queen’s University Belfast, UK
+ 
+#1030
+ SUBSET REGULARIZED ZERO-FORCING PRECODERS FOR CELL-FREE C-RANS
+Mohammad Mahdi Mojahedian, Àngel Lozano, Universitat Pompeu Fabra (UPF), Spain
+ 
+#6496
+ CELL-FREE MASSIVE MIMO WITH MULTIPLE-ANTENNA USERS UNDER I/Q IMBALANCE
+James Sutton, Hien Ngo, Michail Matthaiou, Queen's University Belfast, United Kingdom
+ 
+#6717
+ USER-CENTRIC HANDOVER IN MMWAVE CELL-FREE MASSIVE MIMO WITH USER MOBILITY
+Carmen D'Andrea, Giovanni Interdonato, Stefano Buzzi, University of Cassino and Southern Latium, Italy
+ 
+#6807
+ POWER CONTROL FOR MULTIGROUP MULTICAST CELL-FREE MASSIVE MIMO DOWNLINK
+Muhammad Farooq, University College Dublin, Ireland; Markku Juntti, University of Oulu, Finland; Le Nam Tran, University College Dublin, Ireland
+ 
+#6878
+ DISTRIBUTED COMPUTATION OF A POSTERIORI BIT LIKELIHOOD RATIOS IN CELL-FREE MASSIVE MIMO
+Zakir Hussain Shaik, Linköping University, Sweden; Emil Björnson, KTH Royal Institute of Technology, Sweden; Erik G. Larsson, Linköping University, Sweden
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mais detalhes»  copiar para minha agenda
+18:00
+ 
+VIP-L3-Image Processing
+Quando
+qua., 25 de agosto, 18:00 – 18:30
+Descrição
+  VIP-L3-Image Processing
+
+Q&A - Session chair: Rozenn Dahyot
+ 
+#1067
+ EFFICIENT MODELS FOR REAL-TIME PERSON SEGMENTATION ON MOBILE PHONES
+Julian Strohmayer, Jakob Knapp, Martin Kampel, TU Wien, Austria
+ 
+#1041
+ REMOVING IMPULSIVE NOISE FROM COLOR IMAGES VIA A RESIDUAL DEEP NEURAL NETWORK ENHANCED BY POST-PROCESSING
+Sahar Sadrizadeh, Sharif University of Technology, Iran; Hatef Otroshi Shahreza, École polytechnique fédérale de Lausanne (EPFL), Switzerland; Farokh Marvasti, Sharif University of Technology, Iran
+ 
+#6274
+ LEARNING BASED SUPERPIXEL MERGING MODEL FOR IMAGE SEGMENTATION
+Jin-Yu Huang, Jian-Jiun Ding, Pei-Chi Huang, National Taiwan University, Taiwan
+ 
+#6408
+ WHY MAXIMUM-A-POSTERIORI BLIND IMAGE DEBLURRING WORKS AFTER ALL
+Gian Marti, Boxiao Ma, Hans-Andrea Loeliger, ETH Zurich, Switzerland
+ 
+#1239
+SLICED L2 DISTANCE FOR COLOUR GRADING
+Hana Alghamdi, Rozenn Dahyot, Trinity College Dublin, Ireland
+mais detalhes»  copiar para minha agenda
+18:00
+ 
+ASMSP-L4- Modeling, Analysis and Synthesis for Audio and Acoustics Part 1
+Quando
+qua., 25 de agosto, 18:00 – 18:30
+Descrição
+ASMSP-L4- Modeling, Analysis and Synthesis for Audio and Acoustics Part 1
+
+Q&A
+
+#1173
+ WHAT IS THE GROUND TRUTH? RELIABILITY OF MULTI-ANNOTATOR DATA FOR AUDIO TAGGING
+Irene Martin Morato, Annamaria Mesaros, Tampere University, Finland
+ 
+#1202
+ON THE UPSCALING OF HIGHER-ORDER AMBISONICS SIGNALS FOR SOUND FIELD TRANSLATION
+Maximilian Kentgens, Shahd Al Hares, Peter Jax, RWTH Aachen University, Germany
+ 
+#6249
+ A MODEL-BASED 2-D HEAD-TRACKING METHOD USING MICROPHONES AT THE EARS
+Tobias Kabzinski, Jérôme Biot, Peter Jax, RWTH Aachen University, Germany
+ 
+#6272
+ LOUDSPEAKER ARRAY TO MAXIMIZE ACOUSTIC CONTRAST USING PROXIMAL SPLITTING METHOD
+Kenta Imaizumi, Kenta Niwa, Kimitaka Tsutsumi, NTT Corporation, Japan
+ 
+#6308
+ SIGNAL-DEPENDENT MIXING FOR DIRECTION-PRESERVING MULTICHANNEL NOISE REDUCTION
+Adrian Herzog, Emanuël Habets, International Audio Laboratories Erlangen, Germany
+mais detalhes»  copiar para minha agenda
+18:00
+ 
+BISA-L2 - Analysis and interpretation of biomed signals and images Part I
+Quando
+qua., 25 de agosto, 18:00 – 18:30
+Descrição
+BISA-L2 - Analysis and interpretation of biomed signals and images Part I
+
+Q&A
+
+#1070 
+MANDARIN TONE CLASSIFICATION IN SPOKEN SPEECH WITH EEG SIGNALS
+Mingtao Li, Southern University of Science and Technology, China; Sio Hang Pun, University of Macau, China; Fei Chen, Southern University of Science and Technology, China
+ 
+#6534
+ DETECTION OF BRAIN INTERICTAL EPILEPTIFORM DISCHARGES FROM INTRACRANIAL EEG BY EXPLOITING THEIR MORPHOLOGY IN THE TENSOR STRUCTURE
+Bahman Abdi-Sargezeh, Nottingham Trent University, United Kingdom; Antonio Valentin, King’s College London, United Kingdom; Gonzalo Alarcon, Hamad General Hospital, Qatar; Saeid Sanei, Nottingham Trent University, United Kingdom
+ 
+#6753
+ CLASSIFICATION OF PSYCHOGENIC NON-EPILEPTIC SEIZURES USING SYNCHROSQUEEZING TRANSFORM OF EEG SIGNALS
+Ozlem Karabiber Cura, Izmir Katip Celebi University, Turkey; Aydin Akan, Izmir University of Economics, Turkey
+ 
+#6899
+ TRACÉ ALTERNANT DETECTOR FOR GRADING HYPOXIC-ISCHEMIC ENCEPHALOPATHY IN NEONATAL EEG
+Sumit Raurale, Geraldine Boylan, Sean Mathieson, William Marnane, Gordon Lightbody, John O'Toole, University College Cork, Ireland
+ 
+#6945 
+RANDOM CONVOLUTION KERNELS WITH MULTI-SCALE DECOMPOSITION FOR PRETERM EEG INTER-BURST DETECTION
+Christopher Lundy, John M. O'Toole, University College Cork, Ireland
+mais detalhes»  copiar para minha agenda
+18:00
+ 
+SPMuS-L3 -Multichannel Signal Processing for Automotive Applications
+Quando
+qua., 25 de agosto, 18:00 – 18:30
+Descrição
+SPMuS-L3 -Multichannel Signal Processing for Automotive Applications
+
+Q&A
+
+#1126
+ CLEAN RECEIVER FOR CDMA MIMO RADAR
+Gaston Solodky, Oren Longman, Ishai Eljarat, General Motors, Israel; Igal Bilik, Ben-Gurion University of the Negev, Israel
+ 
+#6650
+ CODE DESIGN FOR AUTOMOTIVE MIMO RADAR
+Oded Bialer, Amnon Jonas, General Motors, Israel; Tom Tirer, General Motors & Tel Aviv University, Israel
+ 
+#6887
+ AUTOMOTIVE RADAR DATA ACQUISITION USING OBJECT DETECTION
+Madhumitha Sakthi, Ahmed Tewfik, The University of Texas at Austin, United States
+ 
+#6843
+ PHASE-CODED FMCW LIDAR
+Sebastian Banzhaf, Robert Bosch GmbH, Germany; Christian Waldschmidt, Ulm University, Germany
+ 
+#6431
+ AUTOMATED GAIN CONTROL THROUGH DEEP REINFORCEMENT LEARNING FOR DOWNSTREAM RADAR OBJECT DETECTION
+Tristan Stevens, Recep Tigrek, Eindhoven University of Technology, Netherlands; Eric Tammam, Anachoic Ltd, Israel; Ruud van Sloun, Eindhoven University of Technology, Netherlands
+mais detalhes»  copiar para minha agenda
+18:00
+ 
+TMTSP-L2 - Compressive Sensing
+Quando
+qua., 25 de agosto, 18:00 – 18:30
+Descrição
+TMTSP-L2 - Compressive Sensing
+
+Q&A session 
+
+session chair: Sundeep Prabhakar Chepuri
+
+#6370
+ VAMP WITH INDIVIDUAL VARIANCES AND SEQUENTIAL PROCESSING FOR COMPRESSED SENSING
+Carmen Sippel, Robert Fischer, Ulm University, Germany
+ 
+#6641
+ TYPICAL PERFORMANCE OF ITERATIVE REWEIGHTED LASSO FOR COMPRESSED SENSING
+Chihiro Teramoto, Kazushi Mimura, Kazunori Iwata, Hiroshima City University, Japan
+ 
+#6817 
+ACCELERATION TECHNIQUE FOR MULTIPLE K-MEANS CLUSTERING BASED LOCALLY LOW-RANK APPROACH TO NONLINEAR MATRIX COMPLETION
+Ryohei Sasaki, Katsumi Konishi, Hosei university, Japan
+ 
+#6874
+FEDERATED DEEP UNFOLDING FOR SPARSE RECOVERY
+Komal Krishna Mogilipalepu, Sumanth Kumar Modukuri, Amarlingam Madapu, Sundeep Prabhakar Chepuri, Indian Institute of Science Bangalore, India
+ 
+#1095
+ RECONSTRUCTION OF SPARSE SIGNALS USING LIKELIHOOD MAXIMIZATION FROM COMPRESSIVE MEASUREMENTS WITH GAUSSIAN AND SATURATION NOISE
+Shuvayan Banerjee, Radhendushka Srivastava, Ajit Rajwade, IIT Bombay, India
+mais detalhes»  copiar para minha agenda
+quinta-feira, 26 de agosto
+ 
+eusipco 2021 online platform open
+09:30
+ 
+Keynote: Sparsity, a swiss-knife from inverse problems to deep learning ?
+12:00
+ 
+SPCN-L3-Perfomance Analysis of Communication Systems
+Quando
+qui., 26 de agosto, 12:00 – 12:30
+Descrição
+  SPCN-L3-Perfomance Analysis of Communication Systems
+
+Q&A
+#6335
+ ERROR ANALYSIS OF A DEMODULATION PROCEDURE FOR MULTICARRIER SIGNALS WITH SLOWLY-VARYING CARRIERS
+Dilshad Surroop, PSL University, France; Pascal Combes, Schneider Electric, France; Philippe Martin, PSL University, France
+ 
+#1163
+ AMPLITUDE DETECTION OVER GENERALIZED FADING MODELS: AN ASYMPTOTIC APPROACH
+Amit Agarwal, Costas Psomas, Ioannis Krikidis, university of Cyprus, Cyprus
+ 
+#6418
+ PERFORMANCE LOWER BOUNDS OF BLIND SYSTEM IDENTIFICATION TECHNIQUES IN THE PRESENCE OF CHANNEL ORDER ESTIMATION ERROR
+TRUNG THANH LE, Karim Abed-Meraim, University of Orleans, France; Linh Trung Nguyen, VNU University of Engineering and Technology, Viet Nam
+ 
+#6789
+A FAST RECURSIVE ALGORITHM FOR MULTIPLE BRIDGED KNIFE-EDGE DIFFRACTION
+Viet-Dung Nguyen, Ali Mansour, Arnaud Coatanhay, École nationale supérieure de techniques avancées Bretagne, France; Thierry Marsault, Direction générale de l’armement, France
+mais detalhes»  copiar para minha agenda
+12:00
+ 
+SPMuS-L4 - Tensor-based signal processing
+Quando
+qui., 26 de agosto, 12:00 – 12:30
+Descrição
+  SPMuS-L4 - Tensor-based signal processing
+
+ Q&A
+
+#6420
+ AN ACCELERATED STOCHASTIC GRADIENT FOR CANONICAL POLYADIC DECOMPOSITION
+Ioanna Siaminou, Athanasios P. Liavas, Technical University of Crete, Greece
+ 
+#6422
+ ACCELERATED STOCHASTIC GRADIENT FOR NONNEGATIVE TENSOR COMPLETION AND PARALLEL IMPLEMENTATION
+Ioanna Siaminou, Ioannis Marios Papagiannakos, Christos Kolomvakis, Athanasios P. Liavas, Technical University of Crete, Greece
+ 
+#6448
+ RECURRENT GRAPH TENSOR NETWORKS: A LOW-COMPLEXITY FRAMEWORK FOR MODELLING HIGH-DIMENSIONAL MULTI-WAY SEQUENCES
+Yao Lei Xu, Danilo P. Mandic, Imperial College London, United Kingdom
+ 
+#6480 
+A BAYESIAN APPROACH TO BLOCK-TERM TENSOR DECOMPOSITION MODEL SELECTION AND COMPUTATION
+Paris Giampouras, Johns Hopkins University, United States; Athanasios Rontogiannis, National Observatory of Athens, Greece; Eleftherios Kofidis, University of Piraeus, Greece
+ 
+#6545
+ ONLINE NONNEGATIVE CANONICAL POLYADIC DECOMPOSITION: ALGORITHMS AND APPLICATION
+Isaac Wilfried Sanou, Roland Redon, Xavier Luciani, Stéphane Mounier, Université de Toulon, France
+ 
+mais detalhes»  copiar para minha agenda
+12:00
+ 
+SS9 - Machine Learning for Biomedical Signal and Image Processing Part 1
+Quando
+qui., 26 de agosto, 12:00 – 12:30
+Onde
+https://eusipco2021.org/special-sessions/ (mapa)
+Descrição
+ SS9 - Machine Learning for Biomedical Signal and Image Processing Part 1
+
+Q&A session
+Organisers: Lotfi Chaari, University of Toulouse, IRIT ENSEEIT, Herwig Wendt, National Centre for Scientific Research (CNRS), IRIT, University of Toulouse
+
+#6484
+ SHUFFLEUNET: SUPER RESOLUTION OF DIFFUSION-WEIGHTED MRIS USING DEEP LEARNING
+Soumick Chatterjee, Otto von Guericke University Magdeburg, Germany; Alessandro Sciarra, Max Dünnwald, University Hospital Magdeburg, Germany; Raghava Vinaykanth Mushunuri, Ranadheer Podishetti, Rajatha Nagaraja Rao, Geetha Doddapaneni Gopinath, Otto von Guericke University Magdeburg, Germany; Steffen Oeltze-Jafra, University Hospital Magdeburg, Germany; Oliver Speck, Andreas Nürnberger, Otto von Guericke University Magdeburg, Germany
+ 
+#6516
+ RECONSTRUCTING SPEECH FROM REAL-TIME ARTICULATORY MRI USING NEURAL VOCODERS
+Yide Yu, Amin Honarmandi Shandiz, László Tóth, University of Szeged, Hungary
+ 
+#6520
+ TRANSFER LEARNING AND DATA AUGMENTATION FOR MORTALITY PREDICTIVE MODELS IN KIDNEY DISEASE
+Edwar Macias, Jose Ibeas, Javier Serrano, Jose Lopez Vicario, Antoni Morell, Universitat Autònoma de Barcelona, Spain
+ 
+#6691
+ DROWSINESS DETECTION USING JOINT EEG-ECG DATA WITH DEEP LEARNING
+Guillaume Geoffroy, Lotfi Chaari, Jean-Yves Tourneret, Herwig Wendt, University of Toulouse, IRIT-ENSEEIHT, France
+ 
+#6839
+ LEARNING THE SAMPLING DENSITY IN 2D SPARKLING MRI ACQUISITION FOR OPTIMIZED IMAGE RECONSTRUCTION
+Chaithya G R, Zaccharie RAMZI, Philippe CIUCIU, CEA, France
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mais detalhes»  copiar para minha agenda
+12:00
+ 
+ASMSP-L5- Modeling, Analysis and Synthesis for Audio and Acoustics Part 2
+Quando
+qui., 26 de agosto, 12:00 – 12:30
+Descrição
+ASMSP-L5- Modeling, Analysis and Synthesis for Audio and Acoustics Part 2
+
+Q&A
+
+#6453
+ SOUND ZONING IN AN AD-HOC WIRELESS ACOUSTIC SENSOR AND ACTUATOR NETWORK
+Robbe Van Rompaey, Marc Moonen, KU Leuven, Belgium
+ 
+#6465
+SPATIAL FILTER BANK DESIGN IN THE SPHERICAL HARMONIC DOMAIN
+Christoph Hold, Aalto University, Finland; Archontis Politis, Tampere University, Finland; Leo McCormack, Ville Pulkki, Aalto University, Finland
+ 
+#6778
+ LOW-RANK TENSOR MODELING OF ROOM IMPULSE RESPONSES
+Martin Jälmby, Filip Elvander, Toon van Waterschoot, KU Leuven, Belgium
+ 
+#6849
+ COHERENCE BASED TRAJECTORY OPTIMIZATION FOR COMPRESSIVE SENSING OF SOUND FIELDS
+Fabrice Katzberg, Marco Maass, Alfred Mertins, University of Lübeck, Germany
+ 
+#6937
+ NEAR FIELD ACOUSTIC HOLOGRAPHY ON ARBITRARY SHAPES USING CONVOLUTIONAL NEURAL NETWORK
+Marco Olivieri, Mirco Pezzoli, Fabio Antonacci, Augusto Sarti, Politecnico di Milano, Italy
+ 
+mais detalhes»  copiar para minha agenda
+12:00
+ 
+BISA-L3- Analysis and interpretation of biomed signals and images Part 2
+Quando
+qui., 26 de agosto, 12:00 – 12:30
+Descrição
+BISA-L3- Analysis and interpretation of biomed signals and images Part 2
+
+Q&A
+
+#1100
+ CLASSIFICATION BETWEEN NORMAL AND ABNORMAL RESPIRATION USING ERGODIC HMM FOR INTERMITTENT ABNORMAL SOUNDS
+Masaru Yamashita, Nagasaki University, Japan
+ 
+#1155
+ ALLUVIAL VISUALIZATION AND COMPUTATION OF PROBABILITIES OF TRANSITIONS IN FRAILTY INDEX STATES OVER AN 8-YEAR PERIOD USING MULTI-STATE MARKOV MODELS
+Roman Romero-Ortuno, Trinity College Dublin, Ireland; Peter Hartley, University of Cambridge, United Kingdom; Silvin P. Knight, Rose Anne Kenny, Aisling M. O’Halloran, Trinity College Dublin, Ireland
+ 
+#6360
+ A STUDY OF AT-TERM AND PRETERM INFANTS' MOTION BASED ON MARKERLESS VIDEO ANALYSIS
+Luca Garello, University of Genova and Italian Institute of Technology, Italy; Matteo Moro, University of Genova, Italy; Chiara Tacchino, Francesca Campone, Paola Durand, Isabella Blanchi, Paolo Moretti, Istituto Giannina Gaslini, Italy; Maura Casadio, Francesca Odone, University of Genova, Italy
+ 
+#6411
+ IN SILICO EVALUATION OF WEARABLE CARDIAC DEFIBRILLATOR: PERSONALIZED THERAPY PLANNING TO PREVENT SUDDEN CARDIAC DEATH
+Oishee Mazumder, Aniruddha Sinha, Tata Consultancy Services, India
+ 
+#6639
+ AN APPARATUS TO MEASURE STIMULUS-RELATED AND RESPONSE-RELATED VISUAL EVOKED POTENTIAL IN A SIMULATED DRIVING SCENARIO
+Yongxiang Wang, Technological University Dublin, City Campus, Ireland; Charles Markham, Maynooth University, Ireland; Catherine Deegan, Technological University Dublin, City Campus, Ireland
+mais detalhes»  copiar para minha agenda
+12:00
+ 
+SiG-DML-L3-Applications of machine learning
+Quando
+qui., 26 de agosto, 12:00 – 12:30
+Descrição
+SiG-DML-L3-Applications of machine learning
+
+Q&A
+
+#6366
+ LONGITUDINAL ASSESSMENT OF EEG BIOMETRICS UNDER AUDITORY STIMULATION: A DEEP LEARNING APPROACH
+Sherif Nagib Abbas Seha, Dimitrios Hatzinakos, University of Toronto, Canada
+ 
+#6421
+ MULTITASK LEARNING FOR DENOISING AND ANALYSIS OF X-RAY POLYMER ACQUISITIONS
+Nicolò Bonettini, Politecnico di Milano, Italy; Carlo Andrea Gonano, Xnext S.r.l., Italy; Paolo Bestagini, Marco Marcon, Politecnico di Milano, Italy; Bruno Garavelli, Xnext S.r.l., Italy; Stefano Tubaro, Politecnico di Milano, Italy
+ 
+#6446
+ IMPLICIT VS. EXPLICIT STYLE TRANSFER? A COMPARISON OF GAN ARCHITECTURES FOR CONTINUOUS PATH KEYBOARD INPUT MODELING
+Akash Mehra, Jerome Bellegarda, Ojas Bapat, Hema Koppula, Rick Chang, Ashish Shrivastava, Oncel Tuzel, Apple, United States
+ 
+#6796
+ PREPROCESSING OF FREEHAND ULTRASOUND SYNTHETIC APERTURE MEASUREMENTS USING DNN
+Rick Pandey, Jan Kirchhof, Technische Universität Ilmenau, Germany; Fabian Krieg, Fraunhofer Institute for Nondestructive Testing IZFP, Germany; Eduardo Pérez, Technische Universität Ilmenau, Germany; Florian Römer, Fraunhofer Institute for Nondestructive Testing IZFP, Germany
+ 
+#6932
+TOWARDS COMBINED EVENT DETECTION AND CLASSIFICATION FOR NON-INTRUSIVE LOAD MONITORING USING CONVOLUTIONAL NEURAL NETWORKS
+Florian Liebgott, Annika Liebgott, Bin Yang, University of Stuttgart, Germany
+mais detalhes»  copiar para minha agenda
+12:40
+ 
+Elsevier (40 minute session)
+15:30
+ 
+ASMSP-P5-Machine Learning for Audio and Acoustics
+Quando
+qui., 26 de agosto, 15:30 – 16:30
+Descrição
+  ASMSP-P5-Machine Learning for Audio and Acoustics
+
+Q&A
+
+#6333
+ ROBUST RELATIVE TRANSFER FUNCTION IDENTIFICATION ON MANIFOLDS FOR SPEECH ENHANCEMENT
+Amit Sofer, Bar-Ilan University, Israel; Tomas Kounovsky, Jaroslav Cmejla, Zbynek Koldovsky, Technical University of Liberec, Czech Republic; Sharon Gannot, Bar-Ilan University, Israel
+ 
+#6478
+ MOBILE MICROPHONE ARRAY SPEECH DETECTION AND LOCALIZATION IN DIVERSE EVERYDAY ENVIRONMENTS
+Pasi Pertilä, Emre Cakir, Aapo Hakala, Eemi Fagerlund, Tuomas Virtanen, Archontis Politis, Tampere University, Finland; Antti Eronen, Nokia Technologies Oy, Finland
+ 
+#1064
+INVESTIGATING CROSS-DOMAIN LOSSES FOR SPEECH ENHANCEMENT
+Sherif Abdulatif, Karim Armanious, Jayasankar T. Sajeev, Karim Guirguis, Bin Yang, University of Stuttgart, Germany
+ 
+#1207
+PEAKRNN AND STATSRNN: DYNAMIC PRUNING IN RECURRENT NEURAL NETWORKS
+Zuzana Jelčicová, Demant A/S; Technical University of Denmark (DTU), Denmark; Rasmus Jones, David Thorn Blix, Demant A/S, Denmark; Marian Verhelst, Katholieke Universiteit Leuven (KU Leuven), Belgium; Jens Sparsø, Technical University of Denmark (DTU), Denmark
+ 
+#6289
+ ON TRAINING TARGETS FOR NOISE-ROBUST VOICE ACTIVITY DETECTION
+Sebastian Braun, Ivan Tashev, Microsoft, United States
+ 
+#6433
+ STUTTERNET: STUTTERING DETECTION USING TIME DELAY NEURAL NETWORK
+Shakeel Ahmad Sheikh, Md Sahidullah, Universite de Lorraine, CNRS, Inria, LORIA, France; Fabrice Hirsch, Universite Paul-Valery Montpellier, CNRS, Praxiling, France; Slim Ouni, Universite de Lorraine, CNRS, Inria, LORIA, France
+ 
+#6449
+ AUDIO SUMMARIZATION FOR PODCASTS
+Aneesh Vartakavi, Amanmeet Garg, Zafar Rafii, Nielsen, United States
+ 
+#6502
+ NOISY-TARGET TRAINING: A TRAINING STRATEGY FOR DNN-BASED SPEECH ENHANCEMENT WITHOUT CLEAN SPEECH
+Takuya Fujimura, National Institute of Technology, Tokuyama College, Japan; Yuma Koizumi, NTT Corporation, Japan; Kohei Yatabe, Waseda University, Japan; Ryoichi Miyazaki, National Institute of Technology, Tokuyama College, Japan
+ 
+#6714
+PROBABILISTIC MODELLING OF SIGNAL MIXTURES WITH DIFFERENTIABLE DICTIONARIES
+Lukáš Marták, Rainer Kelz, Gerhard Widmer, Johannes Kepler University Linz, Austria
+ 
+#6560
+ WORD-LEVEL EMBEDDINGS FOR CROSS-TASK TRANSFER LEARNING IN SPEECH PROCESSING
+Pierre Beckmann, Swiss Federal Institute of Technology Lausanne, Switzerland; Mikolaj Kegler, Imperial College London, United Kingdom; Milos Cernak, Logitech Europe, Switzerland
+mais detalhes»  copiar para minha agenda
+15:30
+ 
+SiG-DML-P2-Machine Learning Part 2
+Quando
+qui., 26 de agosto, 15:30 – 16:30
+Descrição
+  SiG-DML-P2-Machine Learning Part 2
+
+Q&A
+
+#6385
+ NETWORK CALIBRATION BY CLASS-BASED TEMPERATURE SCALING
+Lior Frenkel, Jacob Goldberger, Bar-Ilan University, Israel
+ 
+#6955
+ A LEARNING BASED APPROACH TO SEPARATE MIXED X-RAY IMAGES ASSOCIATED WITH ARTWORK WITH CONCEALED DESIGNS
+Wei Pu, University College London, United Kingdom; Junjie Huang, Imperial College, United Kingdom; Barak Sober, Duke university, United States; Nathan Daly, Catherine Higgitt, National Gallery, United Kingdom; Pier Luigi Dragotti, Imperial College, United Kingdom; Ingrid Daubechies, Duke university, United States; Miguel Rodrigues, University College London, United Kingdom
+ 
+#6882
+ RECONSTRUCTION OF FRI SIGNALS USING AUTOENCODERS WITH FIXED DECODERS
+Vincent C. H. Leung, Jun-Jie Huang, Imperial College London, United Kingdom; Yonina C. Eldar, Weizmann Institute of Science, Israel; Pier Luigi Dragotti, Imperial College London, United Kingdom
+ 
+#6780
+ FLIPPING DATA AUGMENTATION OF CONVOLUTIONAL NEURAL NETWORKS USING DISCRETE COSINE TRANSFORMS
+Izumi Ito, Tokyo Institute of Technology, Japan
+ 
+#6799
+ MOTION UNITS: GENERALIZED SEQUENCE MODELING OF HUMAN ACTIVITIES FOR SENSOR-BASED ACTIVITY RECOGNITION
+Hui Liu, Yale Hartmann, Tanja Schultz, University of Bremen, Germany
+ 
+#6295
+ ALTERNATING PROJECTION APPROACH FOR NONLINEAR BLIND SEPARATION OF SPARSE SOURCES
+Saeed Akhavan, Hamid Soltanian-Zadeh, University of Tehran, Iran
+ 
+#1208
+ A MULTI-STEP AHEAD DYADIC PARTICLE FILTER FOR PRICE PREDICTION
+Myrsini Ntemi, Constantine Kotropoulos, Aristotle University of Thessaloniki, Greece
+ 
+#1051
+ RADAR TRACKER FOR HUMAN LEGS BASED ON GEOMETRIC AND INTENSITY FEATURES
+Nils Mandischer, Anna Granich, Ina Koop, Dirk Heberling, Burkhard Corves, RWTH Aachen University, Germany
+ 
+#1049
+TRANSFORMED K-MEANS CLUSTERING
+Anurag Goel, Angshul Majumdar, Indraprastha Institute of Information Technology, India
+ 
+#6501
+ DIMENSIONALITY REDUCTION FOR ORDINAL CLASSIFICATION
+Mouad Zine-El-Abidine, Université d'Angers, France; Helin Dutagaci, Eskisehir Osmangazi University, Turkey; David ROUSSEAU, Laboratoire LARIS, Université d'Angers, France
+mais detalhes»  copiar para minha agenda
+15:30
+ 
+SPMuS-P2 - Array Processing and DOA estimation
+Quando
+qui., 26 de agosto, 15:30 – 16:30
+Descrição
+  SPMuS-P2 - Array Processing and DOA estimation
+
+
+Q&A session
+
+session chair Marius Pesavento
+
+
+#1025
+ RADAR ENVIRONMENT CLASSIFICATOR WITH CLUSTERING CAPABILITIES
+Pia Addabbo, Giustino Fortunato University, Italy; Filippo Biondi, Italian Ministry of Defence, Italy; Danilo Orlando, Università degli Studi Niccolò Cusano, Italy; Giuseppe Ricci, Università del Salento, Italy
+ 
+#6787
+ ONE-BIT ERROR-FEEDBACK QUANTIZER FOR UNIFORM LINEAR ANTENNA ARRAY
+Shuichi Ohno, Shenjian Wang, Hiroshima University, Japan
+ 
+#6956
+ RADAR-BASED RADIAL ARTERIAL PULSE RATE AND PULSE PRESSURE ANALYSIS
+Yu Rong, Arizona State University, United States; Kumar Vijay Mishra, United States Army Research Laboratory, United States; Daniel W. Bliss, Arizona State University, United States
+ 
+#6977
+ CRLB PERFORMANCE FOR WIDELY SEPARATED MIMO RADAR IN CES DISTURBANCE
+Neda Rojhani, Lorenzo Borghini, Maria S Greco, Fulvio Gini, University of Pisa, Italy
+ 
+#1111
+ ON MAXIMUM LIKELIHOOD DOA ESTIMATION FOR SPACE SURVEILLANCE RADAR
+Nadav Neuberger, Fraunhofer FHR, Germany; Risto Vehmas, Elettronica GmbH, Germany
+ 
+#1198
+ CAUSAL SYSTEM IDENTIFICATION BASED COMPENSATION FOR REVERBERATION-ROBUST DOA ESTIMATION
+Li He, Wei Xue, China Mobile Research Institute, China
+ 
+#6287
+ EXPECTATION-MAXIMIZATION BASED DIRECTION OF ARRIVAL ESTIMATION UNDER A MIXTURE OF NOISE
+Yassine Mhiri, SATIE-Université Paris Saclay, France; Mohammed Nabil El Korso, Université Paris Nanterre, France; Lucien Bacharach, SATIE-Université Paris Saclay, France; Arnaud Breloy, Université Paris Nanterre, France; Pascal Larzabal, SATIE-Université Paris Saclay, France
+ 
+#6492
+ A CO-ARRAY APPROACH TO MULTI-SOURCE 2D-DOA ESTIMATION WITH TIME-MULTIPLEXED ARRAY ELEMENTS
+Jannik Springer, Clemens Allmann, Marc Oispuu, Fraunhofer FKIE, Germany
+ 
+#6525
+ PARTIALLY RELAXED FOURIER DOMAIN DIRECTION OF ARRIVAL ESTIMATION
+David Schenck, Minh Trinh-Hoang, Marius Pesavento, Technische Universität Darmstadt, Germany
+ 
+#6754 
+A NESTED ARRAY GEOMETRY WITH ENHANCED DEGREES OF FREEDOM AND HOLE-FREE DIFFERENCE COARRAY
+Steven Wandale, Koichi Ichige, Yokohama National University, Japan
+mais detalhes»  copiar para minha agenda
+15:30
+ 
+TMTSP-P3 - Sparsity Aware Processing
+Quando
+qui., 26 de agosto, 15:30 – 16:30
+Descrição
+  TMTSP-P3 - Sparsity Aware Processing
+
+Q&A session
+
+session chair Yamada, Isao
+
+#6257
+ A COMPARATIVE STUDY OF LOW-RANK-PLUS-SPARSE MATRIX DECOMPOSITION AND MACHINE LEARNING FOR NON-DESTRUCTIVE AIR-ULTRASOUND DEFECT DETECTION
+Manar Al-Askary, Udaya S.K.P. Miriya Thanthrige, Ruhr-Universität Bochum, Germany; Pierre Pfeffer, Luis Wachter, Giovanni Schober, SKZ - Das Kunststoff-Zentrum, Germany; Aydin Sezgin, Ruhr-Universität Bochum, Germany
+ 
+#6341
+ A SUPER RESOLUTION PHASE RETRIEVAL METHOD FOR SPARSE SIGNALS WITH ARBITRARY SCATTERING FUNCTION
+Pinjun Zheng, Ning Fu, Liyan Qiao, Harbin Institute of Technology, China
+ 
+#6500
+ MULTI-CONTRAST CSMRI USING COMMON EDGE STRUCTURES WITH LIGME MODEL
+Daichi Kitahara, Rikako Kato, Hiroki Kuroda, Akira Hirabayashi, Ritsumeikan University, Japan
+ 
+#6665
+ ANALYZING CROSS VALIDATION IN COMPRESSED SENSING WITH MIXED GAUSSIAN AND IMPULSE MEASUREMENT NOISE WITH L1 ERRORS
+Chinmay Gurjarpadhye, Shubhang Bhatnagar, Ajit Rajwade, IIT Bombay, India
+ 
+#6776
+ A GRAPH REGULARIZED RPCA BY GENERALIZED MOREAU ENHANCED MODEL
+Ryota Komatsu, Masao Yamagishi, Isao Yamada, Tokyo Institute of Technology, Japan
+ 
+#6831
+ A GENERALIZED MOREAU ENHANCEMENT OF L2,1-NORM AND ITS APPLICATION TO GROUP SPARSE CLASSIFICATION
+Yang Chen, Masao Yamagishi, Isao Yamada, Tokyo Institute of Technology, Japan
+ 
+#6873
+ SHAPE PARAMETER AND SPARSE REPRESENTATION RECOVERY UNDER GENERALIZED GAUSSIAN NOISE
+Florin Ilarion Miertoiu, Bogdan Dumitrescu, University Politehnica of Bucharest, Romania
+ 
+#6961
+ DICTIONARY LEARNING OF BINARY ATOMS BY USING A SMOOTH APPROXIMATION
+Edwin Vargas, Henry Arguello, UNIVERSIDAD INDUSTRIAL DE SANTANDER, Colombia
+ 
+#6863
+ AUDIO INPAINTING VIA L1-MINIMIZATION AND DICTIONARY LEARNING
+Shristi Rajbamshi, Georg Tauböck, Nicki Holighaus, Peter Balazs, Austrian Academy of Sciences, Austria
+ 
+#6579
+ A DISTRIBUTED SPARSE CHANNEL ESTIMATION TECHNIQUE FOR MMWAVE MASSIVE MIMO SYSTEMS
+Maria Trigka, Christos Mavrokefalidis, Kostas Berberidis, University of Patras, Greece
+ 
+mais detalhes»  copiar para minha agenda
+15:30
+ 
+ASMSP-P6-Speech Enhancement and Spoken Document Retrieval
+Quando
+qui., 26 de agosto, 15:30 – 16:30
+Descrição
+ASMSP-P6-Speech Enhancement and Spoken Document Retrieval
+
+Q&A
+
+#1226
+ GENERALLY APPLICABLE DEEP SPEECH INPAINTING USING THE EXAMPLE OF BANDWIDTH EXTENSION
+Lars Thieling, Peter Jax, Institute of Communication Systems, RWTH Aachen, Germany
+ 
+#6372
+ SPONTANEOUS SPEECH SUMMARIZATION: TRANSFORMERS ALL THE WAY THROUGH
+Tomoki Hayashi, Takenori Yoshimura, Masaya Inuzuka, Ibuki Kuroyanagi, Human Dataware Lab. Co., Ltd., Japan; Osamu Segawa, Chubu Electric Power Co., Inc., Japan
+ 
+#6394
+ SPARSE LINEAR PREDICTION-BASED DEREVERBERATION FOR SIGNAL ENHANCEMENT IN DISTANT SPEAKER VERIFICATION
+Marcin Witkowski, Magdalena Rybicka, Konrad Kowalczyk, AGH University of Science and Technology, Poland
+ 
+#6406
+ LEARNING TO INFERENCE WITH EARLY EXIT IN THE PROGRESSIVE SPEECH ENHANCEMENT
+Andong Li, Chengshi Zheng, Institute of Acoustics, Chinese Academy of Sciences, China; Lu Zhang, Harbin Institute of Technology, China; Xiaodong Li, Institute of Acoustics, Chinese Academy of Sciences, China
+ 
+#6441
+ A SPEECH ENHANCEMENT FRONT-END FOR INTENT CLASSIFICATION IN NOISY ENVIRONMENTS
+Mohamed Nabih Ali Nabih Ali, University of Trento, Italy; Veronica Juliana Schmalz, Free University of Bolzano, Italy; Alessio Brutti, Daniele Falavigna, Fondazione Bruno Kessler, Italy
+ 
+#6504
+TASK-AWARE WARPING FACTORS IN MASK-BASED SPEECH ENHANCEMENT
+Qiongqiong Wang, Kong Aik Lee, Takafumi Koshinaka, Koji Okabe, Hitoshi Yamamoto, NEC, Japan
+ 
+#6559
+ TOWARDS SPEECH ENHANCEMENT USING A VARIATIONAL U-NET ARCHITECTURE
+Eike Nustede, Jörn Anemüller, Carl von Ossietzky University Oldenburg, Germany
+ 
+#6751
+ SPEAKER-AWARE SPEECH ENHANCEMENT WITH SELF-ATTENTION
+Ju Lin, Clemson University, United States; Adriaan J. van Wijngaarden, Nokia Bell Labs, United States; Melissa C. Smith, Kuang-Ching Wang, Clemson University, United States
+ 
+#6756
+SPEECH ENHANCEMENT WITH ZERO-SHOT MODEL SELECTION
+Ryandhimas Zezario, Chiou-Shann Fuh, National Taiwan University, Taiwan; Hsin-Min Wang, Yu Tsao, Academia Sinica, Taiwan
+
+ #6835
+ A STUDY OF INCORPORATING ARTICULATORY MOVEMENT INFORMATION IN SPEECH ENHANCEMENT
+Yu-Wen Chen, Kuo-Hsuan Hung, Shang-Yi Chuang, Jonathan Sherman, Academia Sinica, Taiwan; Xugang Lu, National Institute of Information and Communications Technology, Japan; Yu Tsao, Academia Sinica, Taiwan
+mais detalhes»  copiar para minha agenda
+15:30
+ 
+VIP-P2-Vision and Image Processing Part 2
+Quando
+qui., 26 de agosto, 15:30 – 16:30
+Descrição
+VIP-P2-Vision and Image Processing Part 2
+
+Q&A
+
+#1222
+ AN AUTONOMOUS DRONE FOR IMAGE-BASED INSPECTION OF BOOKSHELVES
+Ester Martinez-Martin, University of Alicante, Spain; Eric Ferrer, Ilia Vasilev, Angel P. del Pobil, Jaume I University, Spain
+ 
+#6614
+ FAST OBJECT DETECTION IN HEVC INTRA COMPRESSED DOMAIN
+Liuhong Chen, Fudan University, China; Heming Sun, Waseda University;JST, PRESTO, Japan; Jiro Katto, Waseda University, Japan; Xiaoyang Zeng, Yibo Fan, Fudan University, China
+ 
+#6288
+ LEARNING FAST AND ROBUST GESTURE RECOGNITION
+Christos Papaioannidis, Dimitrios Makrygiannis, Ioannis Mademlis, Ioannis Pitas, Aristotle University of Thessaloniki, Greece
+ 
+#6745
+ BODY AND HEAD ORIENTATION ESTIMATION WITH PRIVACY PRESERVING LIDAR SENSORS
+Onur Tepencelik, Wenchuan Wei, Leanne Chukoskie, Pamela Cosman, Sujit Dey, University of California, San Diego, United States
+ 
+#6779
+ IMPROVEMENT ON INTRA BLOCK COPY IN VIDEO CODING WITH REFERENCE BLOCK RECOMPRESSION
+Lai Zhang, Jun Wang, Jiyuan Hu, Pengjian Yang, Fan Liang, Sun Yat-sen University, China
+ 
+#6680
+ POSE2DRONE: A SKELETON-POSE-BASED FRAMEWORK FOR HUMAN-DRONE INTERACTION
+Zdravko Marinov, Stanka Vasileva, Qing Wang, Constantin Seibold, Jiaming Zhang, Rainer Stiefelhagen, Karlsruhe Institute of Technology, Germany
+ 
+#6868
+ PERSONALIZING EMOTION RECOGNITION USING INCREMENTAL RANDOM FORESTS
+Jordan Gonzalez, Lionel Prevost, ESIEA, France
+ 
+#6875
+ A JPEG-BASED IMAGE CODING SOLUTION FOR DATA STORAGE ON DNA
+Melpomeni Dimopoulou, Eva Gil San Antonio, Marc Antonini, Université Côte d'Azur, CNRS, Laboratoire I3S, France
+ 
+#6915
+ AN AUDIOVISUAL CHILD EMOTION RECOGNITION SYSTEM FOR CHILD-ROBOT INTERACTION APPLICATIONS
+Panagiotis Filntisis, Niki Efthymiou, National Technical University of Athens, Greece; Gerasimos Potamianos, Department of ECE, University of Thessaly, Greece; Petros Maragos, National Technical University of Athens, Greece
+mais detalhes»  copiar para minha agenda
+18:00
+ 
+ASMSP-L6-Speaker and Emotion Recognition
+Quando
+qui., 26 de agosto, 18:00 – 18:30
+Descrição
+  ASMSP-L6-Speaker and Emotion Recognition
+
+Q&A
+
+#1087
+ SIGNIFICANCE OF CONSTANT-Q TRANSFORM FOR VOICE LIVENESS DETECTION
+Kuldeep Khoria, Ankur Patil, Hemant Patil, DAIICT, India
+ 
+#6573
+ DEEP SCATTERING NETWORK FOR SPEECH EMOTION RECOGNITION
+Premjeet Singh, Goutam Saha, Indian Institute of Technology Kharagpur, India; Md Sahidullah, Inria, France
+ 
+#6601
+ SPEECH EMOTION RECOGNITION USING AUDITORY SPECTROGRAM AND CEPSTRAL FEATURES
+Shujie Zhao, Yan Yang, Northwestern Polytechnical University, China; Israel Cohen, Technion--Israel Institute of Technology, Israel; Lijun Zhang, Northwestern Polytechnical University, China
+ 
+#6883
+ COMPENSATE MULTIPLE DISTORTIONS FOR SPEAKER RECOGNITION SYSTEMS
+Mohammad Mohammadamini, Driss Matrouf, Jean-Francois Bonastre, LIA(Laboratoire Informatique d’Avignon), Avignon University, France; Romain Serizel, Sandipana Dowerah, Denis Jouvet, Universit ́e de Lorraine, CNRS, Inria, Loria, F-54000 Nancy, France, France
+ 
+#6975
+ MODIFIED GROUP DELAY CEPSTRAL COEFFICIENTS FOR VOICE LIVENESS DETECTION
+Shrishti Singh, Kuldeep Khoria, Hemant Patil, DAIICT, India
+mais detalhes»  copiar para minha agenda
+18:00
+ 
+ASMSP-L7-Active Noise Control
+Quando
+qui., 26 de agosto, 18:00 – 18:30
+Descrição
+  ASMSP-L7-Active Noise Control
+
+Q&A
+
+#1165
+ DESIGN OF IIR FILTERS FOR ACTIVE NOISE CONTROL BY CONSTRAINED OPTIMIZATION
+Florian Hilgemann, Johannes Fabry, Peter Jax, RWTH Aachen University, Germany
+ 
+#6660
+ AN EFFICIENT ACTIVE NOISE CONTROL SYSTEM WITH ONLINE SECONDARY PATH ESTIMATION FOR SNORING REDUCTION
+Stefano Nobili, Valeria Bruschi, UNIVPM, Italy; Ferruccio Bettarelli, Leaff Engineering, Italy; Stefania Cecchi, UNIVPM, Italy
+ 
+#1107 
+TOWARDS WAVE-DOMAIN ADAPTIVE FILTERING FOR MULTICHANNEL ACOUSTIC ECHO CANCELLATION IN HIGHER-ORDER AMBISONICS SYSTEMS
+Marcel Nophut, Robert Hupke, Stephan Preihs, Jürgen Peissig, Leibniz University Hannover, Germany
+ 
+#1061
+ SEPARATION OF BIRD CALLS AND DOA ESTIMATION USING A 4-MICROPHONE ARRAY
+Paul Baggenstoss, Fraunhofer FKIE, Germany; Karl-Heinz Frommolt, Olaf Jahn, Museum für Naturkunde, Germany; Frank Kurth, Fraunhofer FKIE, Germany
+ 
+#6923
+ DOUBLE-TALK ROBUST ACOUSTIC ECHO CANCELLATION USING PARTITION BLOCK FREQUENCY-DOMAIN ADAPTIVE FILTERING
+Clément GAULTIER, Alexandre GUÉRIN, Grégory PALLONE, Marc EMERIT, Orange, France
+ 
+mais detalhes»  copiar para minha agenda
+18:00
+ 
+SS7 - Acoustic Scene Analysis and Signal Enhancement Based on Advanced Signal Processing and Machine Learning Part 1
+Quando
+qui., 26 de agosto, 18:00 – 18:30
+Onde
+https://eusipco2021.org/special-sessions/ (mapa)
+Descrição
+ SS7 - Acoustic Scene Analysis and Signal Enhancement Based on Advanced Signal Processing and Machine Learning Part 1
+
+Q&A session
+Organisers: Shoji Makino, Nobutaka Ono
+
+#1136
+ A SYNERGISTIC KALMAN- AND DEEP POSTFILTERING APPROACH TO ACOUSTIC ECHO CANCELLATION
+Thomas Haubner, Mhd. Modar Halimeh, Andreas Brendel, Walter Kellermann, Friedrich-Alexander-University Erlangen-Nürnberg, Germany
+ 
+#1164
+ ROBUST ACOUSTIC SCENE CLASSIFICATION IN THE PRESENCE OF ACTIVE FOREGROUND SPEECH
+Siyuan Song, Brecht Desplanques, Celest De Moor, Kris Demuynck, Nilesh Madhu, Ghent University, Belgium
+ 
+#6373
+ LOW LATENCY ONLINE SOURCE SEPARATION AND NOISE REDUCTION BASED ON JOINT OPTIMIZATION WITH DEREVERBERATION
+Tetsuya Ueda, University of Tsukuba, Japan; Tomohiro Nakatani, Rintaro Ikeshita, Keisuke Kinoshita, Shoko Araki, NTT Corporation, Japan; Shoji Makino, University of Tsukuba, Japan
+ 
+#6393 
+DICTIONARY-BASED SPARSE RECONSTRUCTION OF INCOMPLETE RELATIVE TRANSFER FUNCTIONS
+Zbyněk Koldovský, Technical University of Liberec, Czech Republic; Sharon Gannot, Bar Ilan University, Israel
+ 
+#6426
+ END-TO-END TRAINING FOR ACOUSTIC SCENE ANALYSIS WITH DISTRIBUTED SOUND-TO-LIGHT CONVERSION DEVICES
+Yuma Kinoshita, Nobutaka Ono, Tokyo Metropolitan University, Japan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mais detalhes»  copiar para minha agenda
+18:00
+ 
+SS9 - Machine Learning for Biomedical Signal and Image Processing Part 2
+Quando
+qui., 26 de agosto, 18:00 – 18:30
+Onde
+https://eusipco2021.org/special-sessions/ (mapa)
+Descrição
+ SS9 - Machine Learning for Biomedical Signal and Image Processing Part 2
+
+Q&A session
+Organisers: Lotfi Chaari, University of Toulouse, IRIT ENSEEIT, Herwig Wendt, National Centre for Scientific Research (CNRS), IRIT, University of Toulouse
+
+
+
+#1160
+ AUTOMATIC SLEEP STAGING FROM PULSE OXIMETER USING RNN
+Ramiro Casal, Universidad Nacional de Entre Ríos, Argentina; Leandro E. Di Persia, Universidad Nacional del Litoral, Argentina; Gastón Schlotthauer, Universidad Nacional de Entre Ríos, Argentina
+ 
+#6253
+ AUDITORY ATTENTION DECODING FROM EEG USING CONVOLUTIONAL RECURRENT NEURAL NETWORK
+Zhen Fu, Bo Wang, Xihong Wu, Jing Chen, Peking University, China
+ 
+#6267
+ DEEP RECTUM SEGMENTATION FOR IMAGE GUIDED RADIATION THERAPY WITH SYNTHETIC DATA
+Dimitrios Mallios, Research Associate, Uganda; Xiaohao Cai, Assistant Professor, United Kingdom
+ 
+#6352
+ A PROTOTYPE DEEP LEARNING SYSTEM FOR THE ACOUSTIC MONITORING OF INTENSIVE CARE PATIENTS
+Athanasios Lykartsis, Markus Hädrich, Stefan Weinzierl, TU Berlin, Germany
+ 
+#6388
+TRANSFER LEARNING VIA PARAMETER REGULARIZATION FOR MEDICAL IMAGE SEGMENTATION
+Nimrod Sagie, Hayit Greenspan, Tel-Aviv University, Israel; Jacob Goldberger, Bar-Ilan University, Israel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mais detalhes»  copiar para minha agenda
+18:00
+ 
+TMTSP-L3 - Data Driven and Bayesian Techniques
+Quando
+qui., 26 de agosto, 18:00 – 18:30
+Descrição
+  TMTSP-L3 - Data Driven and Bayesian Techniques
+
+Q&A session
+session chair: Petar Djuric
+
+#6298
+ BOOTSTRAP FOR TESTING THE EQUALITY OF SELFSIMILARITY EXPONENTS ACROSS MULTIVARIATE TIME SERIES
+Charles-Gérard Lucas, Patrice Abry, ENS Lyon, France; Herwig Wendt, CNRS, IRIT, Université de Toulouse, France; Gustavo Didier, Tulane University, United States
+ 
+#6626
+ HOW DOES POLICY STRINGENCY AFFECT THE SPREAD OF COVID-19 PANDEMIC? A COUNTRY LEVEL STUDY
+Yicong Li, Calvin Chan, Yang Li, Ercan Kuruoglu, Tsinghua University, China
+ 
+#6572
+ BLIND DECONVOLUTION OF IMAGES CORRUPTED BY GAUSSIAN NOISE USING EXPECTATION PROPAGATION
+, Abdullah Abdulaziz, Dan Yao, Yoann Altmann, Stephen McLaughlin, Heriot-Watt University, United Kingdom
+ 
+#6936
+ THE USE OF GAUSSIAN PROCESSES AS PARTICLES FOR SEQUENTIAL MONTE CARLO ESTIMATION OF TIME-VARYING FUNCTIONS
+Yuhao Liu, Petar M. Djuric, Stony Brook University, United States
+ 
+#6967
+ BAYESIAN NONPARAMETRIC DIMENSIONALITY REDUCTION OF CATEGORICAL DATA FOR PREDICTING SEVERITY OF COVID-19 IN PREGNANT WOMEN
+Marzieh Ajirak, Stony Brook University, United States; Cassandra Heiselman, Anna Fuchs, Mia Heiligenstein, Kimberly Herrera, Diana Garretto, Stony Brook University Hospital, United States; Petar Djuric, Stony Brook University, United States
+ 
+mais detalhes»  copiar para minha agenda
+18:00
+ 
+VIP-L4-Interpolation and Super-resolution
+Quando
+qui., 26 de agosto, 18:00 – 18:30
+Descrição
+  VIP-L4-Interpolation and Super-resolution
+Q&A session
+session chair : Henry Arguello
+
+#1090
+ END-TO-END GENERATIVE ADVERSARIAL FACE HALLUCINATION THROUGH RESIDUAL IN INTERNAL DENSE NETWORK
+Xiang Wang, Lakehead University, Canada; Shan Du, The University of British Columbia Okanagan, Canada; Yimin Yang, Lakehead University, Canada; Qixiang Pang, Confederation College, Canada; Qiang Tang, The University of British Columbia, Canada
+ 
+#6258
+ PIXDOOR: A PIXEL-SPACE BACKDOOR ATTACK ON DEEP LEARNING MODELS
+Iram Arshad, Mamoona Naveed Asghar, Yuansong Qiao, Brian Lee, Yuhang Ye, Athlone institute of Technology, Ireland
+ 
+#1073
+PROCEDURAL TERRAIN GENERATION USING GENERATIVE ADVERSARIAL NETWORKS
+Georgios Voulgaris, Ioannis Mademlis, Ioannis Pitas, Aristotle University of Thessaloniki, Greece
+ 
+#6901
+ AN END-TO-END LEARNING ARCHITECTURE FOR EFFICIENT IMAGE ENCODING AND DEEP LEARNING
+Lahiru D Chamain Hewa Gamage, Siyu Qi, Zhi Ding, University of California Davis, United States
+ 
+#6593
+ INTERPRETABLE MULTIPLE LOSS FUNCTIONS IN A LOW-RANK DEEP IMAGE PRIOR BASED METHOD FOR SINGLE HYPERSPECTRAL IMAGE SUPER-RESOLUTION
+Tatiana Gelvez, Jorge Bacca, Henry Arguello, Universidad Industrial de Santander, Colombia
+mais detalhes»  copiar para minha agenda
+sexta-feira, 27 de agosto
+ 
+eusipco 2021 online platform open
+09:30
+ 
+3MT
+12:00
+ 
+BISA-L4: Bioinformatics and bioinspired signal processing
+Quando
+sex., 27 de agosto, 12:00 – 12:30
+Descrição
+  BISA-L4: Bioinformatics and bioinspired signal processing 
+
+Q&A
+
+#6456
+ COMBINED BAYESIAN AND NORMAL MODE FLEXIBLE FITTING WITH HAMILTONIAN MONTE CARLO SAMPLING FOR CRYO ELECTRON MICROSCOPY
+Rémi Vuillemot, Slavica Jonic, Sorbonne Université & Centre National de la Recherche Scientifique, France
+ 
+#6486
+ VISIBILITY GRAPH NETWORK OF MULTIDIMENSIONAL TIME SERIES DATA FOR PROTEIN STRUCTURE CLASSIFICATION
+Michaela Areti Zervou, University of Crete, Greece; Effrosyni Doutsi, Foundation for Research and Technology, Greece; Panagiotis Tsakalides, University of Crete, Greece
+ 
+#6824
+ MULTIOMICS DATA INTEGRATION FOR GENE REGULATORY NETWORK INFERENCE WITH EXPONENTIAL FAMILY EMBEDDINGS
+Surabhi Jagtap, IFP Energies nouvelles, Université Paris-Saclay, CentraleSupélec, Inria, France; Abdulkadir Çelikkanat, Université Paris-Saclay, CentraleSupélec, Inria, France; Aurélie Pirayre, Frederique Bidard, Laurent Duval, IFP Energies nouvelles, France; Fragkiskos D. Malliaros, Université Paris-Saclay, CentraleSupelec, Inria, France
+ 
+#6900
+ VISUAL BRAIN DECODING FOR SHORT DURATION EEG SIGNALS
+Rahul Mishra, IIT Mandi, India; Krishan Sharma, Vehant Technologies Pvt. Ltd., India; Arnav Bhavsar, IIT Mandi, India
+ 
+#6728 
+MODIFIED REINHARD ALGORITHM FOR COLOR NORMALIZATION OF COLORECTAL CANCER HISTOPATHOLOGY IMAGES
+Santanu Roy, Shubhajit Panda, Mahesh Jangid, Manipal University Jaipur, India
+ 
+mais detalhes»  copiar para minha agenda
+12:00
+ 
+SS7 - Acoustic Scene Analysis and Signal Enhancement Based on Advanced Signal Processing and Machine Learning Part 2
+Quando
+sex., 27 de agosto, 12:00 – 12:30
+Onde
+https://eusipco2021.org/special-sessions/ (mapa)
+Descrição
+ SS7 - Acoustic Scene Analysis and Signal Enhancement Based on Advanced Signal Processing and Machine Learning Part 2
+
+Q&A session
+Organisers: Shoji Makino, Nobutaka Ono
+
+#6554
+ MULTI-SOURCE DIRECTION OF ARRIVAL ESTIMATION OF NOISY SPEECH USING CONVOLUTIONAL RECURRENT NEURAL NETWORKS WITH HIGHER-ORDER AMBISONICS SIGNALS
+Nils Poschadel, Stephan Preihs, Jürgen Peissig, Leibniz University Hannover, Germany
+ 
+#6636
+ DEEP RANKING-BASED DOA TRACKING ALGORITHM
+Renana Opochinsky, Gal Chechik, Sharon Gannot, Bar-Ilan University, Israel
+ 
+#6822
+ A LOW-COMPUTATIONAL DNN-BASED SPEECH ENHANCEMENT FOR HEARING AIDS BASED ON ELEMENT SELECTION
+Chiho Haruta, Nobutaka Ono, Tokyo Metropolitan University, Japan
+ 
+#6823
+ ADVERSARIAL DOMAIN ADAPTATION WITH PAIRED EXAMPLES FOR ACOUSTIC SCENE CLASSIFICATION ON DIFFERENT RECORDING DEVICES
+Stanisław Kacprzak, Konrad Kowalczyk, AGH University of Science and Technology, Poland
+ 
+#6833 
+MULTICHANNEL SEPARATION AND CLASSIFICATION OF SOUND EVENTS
+Robin Scheibler, Tatsuya Komatsu, Masahito Togami, LINE Corporation, Japan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mais detalhes»  copiar para minha agenda
+12:00
+ 
+ASMSP-L8 - Signal Processing for Speech, Audio and Acoustics
+Quando
+sex., 27 de agosto, 12:00 – 12:30
+Descrição
+ASMSP-L8 - Signal Processing for Speech, Audio and Acoustics
+
+Q&A
+
+#1054
+ VOICE-QUALITY FEATURES FOR DEEP NEURAL NETWORK BASED SPEAKER VERIFICATION SYSTEMS
+Abraham Woubie Zewoudie, Lauri Koivisto, Tom Bäckström, Aalto University, Finland
+ 
+#6340
+ BLIND ESTIMATION OF ROOM ACOUSTIC PARAMETERS AND SPEECH TRANSMISSION INDEX USING MTF-BASED CNNS
+Suradej Duangpummet, Japan Advanced Institute of Science and Technology, Japan; Jessada Karnjana, National Science and Technology Development Agency, Thailand; Waree Kongprawechnon, Sirindhorn International Institute of Technology, Thammasat University, Thailand; Masashi Unoki, Japan Advanced Institute of Science and Technology, Japan
+ 
+#6720
+ COMPUTATIONAL PRONUNCIATION ANALYSIS IN SUNG UTTERANCES
+Emir Demirel, Queen Mary University of London, United Kingdom; Sven Ahlback, Doremir Music Research AB, Sweden; Simon Dixon, Queen Mary University of London, United Kingdom
+ 
+#6871
+ PHONEME BASED RESPIRATORY ANALYSIS OF READ SPEECH
+Venkata Srikanth Nallanthighal, Philips Research Eindhoven and Radboud University, Nijmegen, Netherlands; Aki Härmä, Philips Research Eindhoven, Netherlands; Helmer Strik, Radboud University, Netherlands; Mathew Magimai Doss, Idiap Research Institute, Switzerland
+ 
+mais detalhes»  copiar para minha agenda
+12:00
+ 
+SiG-DML-L4-Pattern recognition and classification
+Quando
+sex., 27 de agosto, 12:00 – 12:30
+Descrição
+SiG-DML-L4-Pattern recognition and classification
+
+Q&A
+#6301
+ CORRELATED BINARY DATA FOR MACHINE LEARNING
+Martí Llobet Turró, Margarita Cabrera-Bean, Universitat Politècnica de Catalunya, Spain
+ 
+#6334
+ CO-CLUSTERING VERTICES AND HYPEREDGES VIA SPECTRAL HYPERGRAPH PARTITIONING
+Yu Zhu, Boning Li, Santiago Segarra, Rice University, United States
+ 
+#6515
+ BAYESIAN FEATURE DISCOVERY FOR PREDICTIVE MAINTENANCE
+Amir Dib, Charles Truong, Laurent Oudre, Mathilde Mougeot, Nicolas Vayatis, Université Paris-Saclay, ENS Paris-Saclay, CNRS, Centre Borelli, France; Heloise Nonne, ITNOVEM, SNCF, France
+ 
+#6592
+ LOW-FREQUENCY ENERGY DISAGGREGATION BASED ON ACTIVE AND REACTIVE POWER SIGNATURES
+Pascal Schirmer, Iosif Mporas, University of Hertfordhshire, United Kingdom
+ 
+#6649
+ EXPLORING TEMPORAL CONTEXT AND HUMAN MOVEMENT DYNAMICS FOR ONLINE ACTION DETECTION IN VIDEOS
+Vasiliki Vasileiou, Nikolaos Kardaris, Petros Maragos, National Technical University of Athens, Greece
+ 
+mais detalhes»  copiar para minha agenda
+12:00
+ 
+TMTSP-L4 - Signal and System Modeling and Estimation
+Quando
+sex., 27 de agosto, 12:00 – 12:30
+Descrição
+TMTSP-L4 - Signal and System Modeling and Estimation
+
+Q&A
+
+#1098
+ TASK-BASED ANALOG-TO-DIGITAL CONVERTERS FOR BANDLIMITED SYSTEMS
+Peter Neuhaus, Technische Universität Dresden, Germany; Nir Shlezinger, Ben-Gurion University of the Negev, Israel; Meik Dörpinghaus, Technische Universität Dresden, Germany; Yonina C. Eldar, Weizmann Institute of Science, Israel; Gerhard Fettweis, Technische Universität Dresden, Germany
+ 
+#6434
+ LEARNING STOCHASTIC DYNAMICAL SYSTEMS WITH NEURAL NETWORKS MIMICKING THE EULER-MARUYAMA SCHEME
+Noura Dridi, Lucas Drumetz, Ronan Fablet, IMT ATLANTIQUE, France
+ 
+#6450
+ ANOMALOUS SOUND DETECTION USING A BINARY CLASSIFICATION MODEL AND CLASS CENTROIDS
+Ibuki Kuroyanagi, Nagoya University, Japan; Tomoki Hayashi, Nagoya University,Human Dataware Lab. Co., Ltd.,, Japan; Kazuya Takeda, Tomoki Toda, Nagoya University, Japan
+ 
+#6452
+ ROBUST DYNAMICAL COMPONENT ANALYSIS VIA MULTIVARIATE VARIATIONAL DENOISING
+Monika Warmuth, Philipp Romberger, Christian Uhl, University of Applied Sciences Ansbach, Germany
+ 
+#6814
+ FINITE IMPULSE RESPONSE FILTERS FOR SIMPLICIAL COMPLEXES
+Maosheng Yang, Elvin Isufi, Delft University of Technology, Netherlands; Michael Schaub, RWTH Aachen University, Germany; Geert Leus, Delft University of Technology, Netherlands
+mais detalhes»  copiar para minha agenda
+15:30
+ 
+ASMSP-P7-Speech and Language Recognition
+Quando
+sex., 27 de agosto, 15:30 – 16:30
+Descrição
+  ASMSP-P7-Speech and Language Recognition
+
+Q&A
+
+#1213
+ STUDY ON THE TEMPORAL POOLING USED IN DEEP NEURAL NETWORKS FOR SPEAKER VERIFICATION
+Mickael Rouvier, Pierre-Michel Bousquet, Jarod Duret, Avignon University, France
+ 
+#6353
+ RESOURCE-EFFICIENT TDNN ARCHITECTURES FOR AUDIO-VISUAL SPEECH RECOGNITION
+Alexandros Koumparoulis, Gerasimos Potamianos, University of Thessaly, United States; Samuel Thomas, Edmilson da Silva Morais, IBM, United States
+ 
+#6577
+ DATA AUGMENTATION USING CYCLEGAN FOR END-TO-END CHILDREN ASR
+Dipesh Kumar Singh, Preet P. Amin, Dhirubhai Ambani Institute of Information and Communication Technology, India; Hardik B. Sailor, Samsung R&D Institute, Bangalore, India, India; Hemant A. Patil, Dhirubhai Ambani Institute of Information and Communication Technology, India
+ 
+#6581
+ FEW-SHOT LEARNING FOR FRAME-WISE PHONEME RECOGNITION: ADAPTATION OF MATCHING NETWORKS
+Tirthankar Banerjee, International Institute of Information Technology – Bangalore (IIIT-B), India; Narasimha Rao Thurlapati, V Pavithra, S Mahalakshmi, Samsung R&D Institute, Bangalore (SRIB), India; Dhanya Eledath, V Ramasubramanian, International Institute of Information Technology – Bangalore (IIIT-B), India
+ 
+#6677
+ DISENTANGLED REPRESENTATIONS FOR ARABIC DIALECT IDENTIFICATION BASED ON SUPERVISED CLUSTERING WITH TRIPLET LOSS
+Zainab Alhakeem, Yoohwan Kwon, Hong-Goo Kang, DSP&AI Lab., Department of Electrical and Electronic Engineering, Korea (South)
+ 
+#6804
+ END-TO-END SPEECH RECOGNITION FROM RAW SPEECH: MULTI TIME-FREQUENCY RESOLUTION CNN ARCHITECTURE FOR EFFICIENT REPRESENTATION LEARNING
+Dhanya Eledath, International Institute of Information Technology - Bangalore (IIIT-B), India; P Inbarajan, Anurag Biradar, Sathwick Mahadeva, Samsung R&D Institute, Bangalore (SRIB), India; V Ramasubramanian, International Institute of Information Technology - Bangalore (IIIT-B), India
+ 
+#1125
+ AUTOMATIC SPEECH RECOGNITION SYSTEMS ERRORS FOR ACCIDENT-PRONE SLEEPINESS DETECTION THROUGH VOICE
+Vincent P. Martin, Jean-Luc Rouas, Université de Bordeaux, France; Florian Boyer, Airudit, France; Pierre Philip, Université de Bordeaux, France
+ 
+#6470
+ CROSS-CORPORA LANGUAGE RECOGNITION: A PRELIMINARY INVESTIGATION WITH INDIAN LANGUAGES
+Spandan Dey, Goutam Saha, Indian Institute of Technology Kharagpur, India; Md Sahidullah, Inria, France
+ 
+mais detalhes»  copiar para minha agenda
+15:30
+ 
+BISA-P2: Biomedical image and signal analytics
+Quando
+sex., 27 de agosto, 15:30 – 16:30
+Descrição
+  BISA-P2: Biomedical image and signal analytics
+
+Q&A
+
+#1218 
+A NOVEL ALGORITHM FOR HEART RATE ESTIMATION BASED ON SYNCHROSQUEEZING TRANSFORM
+Nils Laurent, Sylvain Meignen, Julie Fontecave-Jallon, Bertrand Rivet, University Grenoble Alpes, France
+ 
+#6311
+ AUTOMATIC MOTION ARTIFACT REMOVAL IN ECG WITH CANONICAL POLYADIC DECOMPOSITION
+Jannis Lilienthal, Waltenegus Dargie, Technische Universität Dresden, Germany
+ 
+#6414
+ COMPARISON OF REFERENCE SENSOR TYPES AND POSITION FOR MOTION ARTIFACT REMOVAL IN ECG
+Jannis Lilienthal, Waltenegus Dargie, Technische Universität Dresden, Germany
+ 
+#6612
+ HMM-BASED DETECTION OF HEAD NODS TO EVALUATE CONVERSATIONAL ENGAGEMENT FROM HEAD MOTION DATA
+Saygin Artiran, Leanne Chukoskie, Ara Jung, Ian Miller, Pamela Cosman, University of California, San Diego, United States
+ 
+#6648
+ MOTOR IMAGERY SIGNAL CLASSIFICATION USING CONSTANT-Q TRANSFORM FOR BCI APPLICATIONS
+MUSTAFA ALPER BALIM, CEMAL HANİLÇİ, BURSA TECHNICAL UNIVERSITY, Turkey; NURETTIN ACIR, NATIONAL DEFENCE UNIVERSITY, Turkey
+ 
+#6657
+ A DEEP NEURAL CNN MODEL WITH CRF FOR BREAST MASS SEGMENTATION IN MAMMOGRAMS
+Ridhi Arora, Balasubramanian Raman, Indian Institute of Technology Roorkee, India
+ 
+#6701
+ MULTISCALE FRACTAL ANALYSIS ON EEG SIGNALS FOR MUSIC-INDUCED EMOTION RECOGNITION
+Kleanthis Avramidis, Athanasia Zlatintsi, Christos Garoufis, Petros Maragos, National Technical University of Athens, Greece
+ 
+#6965
+ UNSUPERVISED DETECTION OF ANOMALIES IN FETAL HEART RATE TRACINGS USING PHASE SPACE RECONSTRUCTION
+Liu Yang, Marzieh Ajirak, Stony Brook University, United States; Cassandra Heiselman, J. Gerald Quirk, Stony Brook University Hospital, United States; Petar M. Djurić, Stony Brook University, United States
+ 
+#6735
+ FEW-SHOT DECODING OF BRAIN ACTIVATION MAPS
+Myriam Bontonou, Giulia Lioi, Nicolas Farrugia, Vincent Gripon, Lab-STICC, IMT Atlantique, France
+ 
+#6818
+ CLASSIFICATION OF FETAL COMPROMISE DURING LABOUR: SIGNAL PROCESSING AND FEATURE ENGINEERING OF THE CARDIOTOCOGRAPH
+Mark O'Sullivan, Tatiana Gabruseva, Geraldine Boylan, Mairead O'Riordan, Gordon Lightbody, William Marnane, University College Cork, Ireland
+ 
+mais detalhes»  copiar para minha agenda
+15:30
+ 
+SPCN-P1-Signal Processing for Communications and Networks
+Quando
+sex., 27 de agosto, 15:30 – 16:30
+Descrição
+  SPCN-P1-Signal Processing for Communications and Networks
+
+Q&A
+
+#1029
+ ON PERFORMANCE CHARACTERIZATION OF CASCADED MULTIWIRE-PLC/MIMO-RF COMMUNICATION SYSTEM
+Yun Ai, Norwegian University of Science and Technology, Norway; LONG KONG, University of Luxembourg, Luxembourg; Michael Cheffena, Norwegian University of Science and Technology, Norway; Symeon Chatzinotas, Björn Ottersten, University of Luxembourg, Luxembourg
+ 
+#6412
+ AN ANALYSIS FOR THE PERFORMANCE OF THE OFDM-IM SYSTEMS IMPAIRED BY CARRIER FREQUENCY OFFSET
+BHOGAVALLI SATWIKA, K.V.S. Hari, Indian Institute of Science-Bangalore, India
+ 
+#6582
+SMOOTH NONNEGATIVE TENSOR FACTORIZATION FOR MULTI-SITES ELECTRICAL LOAD MONITORING
+Amaury Durand, Telecom Paris and EDF R&D, France; François Roueff, Telecom Paris, France; Jean-Marc Jicquel, Nicolas Paul, EDF R&D, France
+ 
+#6597
+ A NOVEL CHANGE DETECTION TECHNIQUE FOR OCCLUDED OBJECTS USING ULTRA-WIDEBAND RADAR
+Soumya Chakravarty, Smriti Rani, Arijit Chowdhury, Tapas Chakravarty, Arpan Pal, Tata Consultancy Services Limited, India
+ 
+#6695
+ DESIGN AND IMPLEMENTATION OF A NOVEL MSK-BASED FREQUENCY-DOMAIN SWIPT MULTIPLEXING SCHEME
+Rahul Gupta, Konstantinos Ntougias, Ioannis Krikidis, University of Cyprus, Cyprus
+ 
+#6713
+ HIGH DATA RATE NEAR-ULTRASONIC COMMUNICATION WITH CONSUMER DEVICES
+Gizem Tabak, University of Illinois at Urbana-Champaign, United States; Xintian Eddie Lin, Intel Corporation, United States; Andrew Singer, University of Illinois at Urbana-Champaign, United States
+ 
+#6790
+ OODCN: OUT-OF-DISTRIBUTION DETECTION IN CAPSULE NETWORKS FOR FAULT IDENTIFICATION
+Imene Mitiche, Alireza Salimy, Glasgow Caledonian University, United Kingdom; Falk Werner, Philip Boreham, Doble Engineering, United Kingdom; Alan Nesbitt, Gordon Morison, Glasgow Caledonian University, United Kingdom
+ 
+#6854
+ ROBUST DEEP RESIDUAL SHRINKAGE NETWORKS FOR ONLINE FAULT CLASSIFICATION
+Alireza Salimy, Imene Mitiche, Glasgow Caledonian University, United Kingdom; Philip Boreham, Doble Engineering, United Kingdom; Alan Nesbitt, Gordon Morison, Glasgow Caledonian University, United Kingdom
+ 
+#6788
+ SECRECY OUTAGE PROBABILITY ANALYSIS FOR DOWNLINK NOMA WITH IMPERFECT SIC AT UNTRUSTED USERS
+Sapna Thapar, Insha Amin, Indian Institute of Technology Jammu, India; Deepak Mishra, University of New South Wales, Australia; Ravikant Saini, Indian Institute of Technology Jammu, India
+ 
+#6925
+ AN OPEN-SOURCED TIME-FREQUENCY DOMAIN RF CLASSIFICATION FRAMEWORK
+Robert Badger, Kristopher Jung, Minje Kim, Indiana University, United States
+mais detalhes»  copiar para minha agenda
+15:30
+ 
+TMTSP-P4 - New Trends in Signal Processing
+Quando
+sex., 27 de agosto, 15:30 – 16:30
+Descrição
+  TMTSP-P4 - New Trends in Signal Processing 
+
+Q&A
+#1109
+ DISTRIBUTED MAXVAR: IDENTIFYING COMMON SIGNAL COMPONENTS ACROSS THE NODES OF A SENSOR NETWORK
+Charles Hovine, Alexander Bertrand, KU Leuven, Belgium
+ 
+#1181
+ A NOVEL MULTITAPER REASSIGNMENT METHOD FOR ESTIMATION OF PHASE SYNCHRONY
+Maria Sandsten, Rachele Anderson, Isabella Reinhold, Bo Bernhardsson, Carolina Bergeling, Mikael Johansson, Lund University, Sweden
+ 
+#6250
+ INFERRING GRAPH SIGNAL TRANSLATIONS AS INVARIANT TRANSFORMATIONS FOR CLASSIFICATION TASKS
+Raphael Baena, Lucas Drumetz, Vincent Gripon, IMT Atlantique, France
+ 
+#6276 
+FEDERATED LEARNING WITH CLASS IMBALANCE REDUCTION
+Miao Yang, Ximin Wang, Hongbin Zhu, ShanghaiTech, China; Haifeng Wang, Key Laboratory of Wireless Sensor Network Communication, CAS, China; Hua Qian, Shanghai Advanced Research Institute, China
+ 
+#6387
+ AUTOENCODER-BASED GRADIENT COMPRESSION FOR DISTRIBUTED TRAINING
+Lusine Abrahamyan, Yiming Chen, Giannis Bekoulis, Nikos Deligiannis, Vrije Universiteit Brussel, Belgium
+ 
+#6706
+ LIFTING-BASED ALTERNATIVES TO THE FFT FOR COMPUTING THE 4-, 8-, AND 16-POINT DISCRETE FOURIER TRANSFORMS
+Marek Parfieniuk, University of Bialystok, Poland
+ 
+#6734
+ ROBUST PRINCIPAL COMPONENT ANALYSIS USING A NOVEL KERNEL RELATED WITH THE L1-NORM
+Hongyi Pan, Diaa Badawi, Erdem Koyuncu, Ahmet Enis Cetin, Univerity of Illiniois at Chicago, United States
+ 
+#6859
+ A MAXIMUM A POSTERIORI RELAXATION FOR CLUSTERING THE LABELED STOCHASTIC BLOCK MODEL
+Thomas Dittrich, Gerald Matz, Technische Universität Wien, Austria
+ 
+#6860
+ LOCALISING DIFFUSION SOURCES FROM SAMPLES TAKEN ALONG UNKNOWN PARAMETRIC TRAJECTORIES
+Roxana Alexandru, Imperial College London, United Kingdom; Thierry Blu, The Chinese University of Hong Kong, China; Pier Luigi Dragotti, Imperial College London, United Kingdom
+ 
+#1115
+ DEEP DEMIXING: RECONSTRUCTING THE EVOLUTION OF EPIDEMICS USING GRAPH NEURAL NETWORKS
+Gojko Cutura, University of Belgrade, Serbia; Boning Li, Rice University, United States; Ananthram Swami, Army Research Laboratory, United States; Santiago Segarra, Rice University, United States
+ 
+mais detalhes»  copiar para minha agenda
+15:30
+ 
+ASMSP-P8-Detection and Classification of Acoustic Scenes and Events
+Quando
+sex., 27 de agosto, 15:30 – 16:30
+Descrição
+ASMSP-P8-Detection and Classification of Acoustic Scenes and Events
+
+Q&A
+
+#1211
+ IDMT-TRAFFIC: AN OPEN BENCHMARK DATASET FOR ACOUSTIC TRAFFIC MONITORING RESEARCH
+Jakob Abeßer, Saichand Gourishetti, András Kátai, Tobias Clauß, Prachi Sharma, Judith Liebetrau, Fraunhofer IDMT, Germany
+ 
+#6303
+ DESED-FL AND URBAN-FL: FEDERATED LEARNING DATASETS FOR SOUND EVENT DETECTION
+David S. Johnson, Wolfgang Lorenz, Michael Taenzer, Stylianos Mimilakis, Sascha Grollmisch, Jakob Abeßer, Hanna Lukashevich, Fraunhofer Institute for Digital Media Communication (IDMT), Germany
+ 
+#6413
+ NEURAL NETWORK-BASED ACOUSTIC VEHICLE COUNTING
+Slobodan Djukanović, University of Montenegro, Montenegro; Yash Patel, Jiri Matas, Czech Technical University, Czech Republic; Tuomas Virtanen, Tampere University, Finland
+ 
+#6489
+ GRAPH-BASED REPRESENTATION OF AUDIO SIGNALS FOR SOUND EVENT CLASSIFICATION
+Carlo Aironi, Samuele Cornell, Emanuele Principi, Stefano Squartini, Università Politecnica delle Marche, Italy
+ 
+#6497
+ OVERLAPPED SOUND EVENT CLASSIFICATION VIA MULTI-CHANNEL SOUND SEPARATION NETWORK
+Panagiotis Giannoulis, ECE, National Technical University of Athens, Greece; Gerasimos Potamianos, ECE Dept., University of Thessaly, Greece; Petros Maragos, ECE, National Technical University of Athens, Greece
+ 
+#6537
+ WAVETRANSFORMER: AN ARCHITECTURE FOR AUDIO CAPTIONING BASED ON LEARNING TEMPORAL AND TIME-FREQUENCY INFORMATION
+An Tran, Konstantinos Drossos, Tuomas Virtanen, Tampere University, Finland
+ 
+#6624
+ ANOMALOUS SOUND DETECTION BASED ON ATTENTION MECHANISM
+Hayato Mori, Satoshi Tamura, Satoru Hayamizu, Gifu University, Japan
+ 
+#6802
+ SELF-SUPERVISED COMPLEX NETWORK FOR MACHINE SOUND ANOMALY DETECTION
+Miseul Kim, Minh Tri Ho, Hong-Goo Kang, Yonsei University, Korea (South)
+ 
+#6827
+ AUDIO CLASSIFICATION OF THE CONTENT OF FOOD CONTAINERS AND DRINKING GLASSES
+Santiago Donaher, Alessio Xompero, Andrea Cavallaro, Queen Mary University of London, United Kingdom
+ 
+#6466
+ GENDER BIAS IN DEPRESSION DETECTION USING AUDIO FEATURES
+Andrew Bailey, Mark D. Plumbley, University of Surrey, United Kingdom
+mais detalhes»  copiar para minha agenda
+15:30
+ 
+SiG-DML-P3-Applications of machine learning
+Quando
+sex., 27 de agosto, 15:30 – 16:30
+Descrição
+SiG-DML-P3-Applications of machine learning
+
+Q&A session
+session chair: Vijay Mishra
+
+#1043
+ LRG-NET: LIGHTWEIGHT RESIDUAL GRID NETWORK FOR MODELING ELECTRICAL INDUCTION MOTOR DYNAMICS
+Hao-Hsiang Yang, Kuan-Chih Huang, ASUS Intelligent Cloud Services, Taiwan; Wei-Ting Chen, Sy-Yen Kuo, National Taiwan University, Taiwan
+ 
+#1196
+ HYBRID FEDERATED AND CENTRALIZED LEARNING
+Ahmet M Elbir, Sinem Coleri, Koc University, Turkey; Kumar Vijay Mishra, The United States Army Research Laboratory, United States
+ 
+#6252
+ TRAINABLE PREPROCESSING FOR REDUCED PRECISION NEURAL NETWORKS
+Gábor Csordás, EPFL, Switzerland; Kristof Denolf, Nicholas Fraser, Alessandro Pappalardo, Kees Vissers, Xilinx, United States
+ 
+#6297
+ AUGMENTING RADAR DOPPLER RESOLUTION WITH NEURAL NETWORKS
+Jabran Akhtar, Norwegian Defence Research Establishment (FFI), Norway
+ 
+#6357
+ CLUSTERING OF THE BLENDSHAPE FACIAL MODEL
+Stevo Rackovic, Claudia Soares, Instituto Superior Tecnico, Portugal; Dusan Jakovetic, Faculty of Sciences, University of Novi Sad, Serbia; Zoranka Desnica, Relja Ljubobratovic, Epic Games Company, Serbia
+ 
+#6562
+ PAZOE: CLASSIFYING TIME SERIES WITH FEW LABELS
+Mikhail Kamalov, Inria, France; Aurelie Boisbunon, Carlo Fanara, Ingrid Grenet, Jonathan Daeden, MyDataModels, France
+ 
+#6672
+ OPTIMIZATION OF ANTENNA ARRAY CONFIGURATION WITH A NEURAL NETWORK
+Oded Bialer, Noa Garnett, General Motors, Israel
+ 
+#6255
+LEVERAGING END-TO-END DENOISERS FOR DENOISING PERIODIC SIGNALS
+Jules Rio, Olivier Alata, Fabien Momey, Christophe Ducottet, University of Lyon, France
+ 
+#6685
+ WAVEGLOVE: TRANSFORMER-BASED HAND GESTURE RECOGNITION USING MULTIPLE INERTIAL SENSORS
+Matej Králik, Marek Šuppa, Comenius University, Slovakia
+ 
+#6765
+ RADAR TARGET DETECTION WITH CNN
+faruk yavuz, Aselsan, Turkey
+
+
+--------
+3mt
+--------
+PAYING ATTENTION TO MUSIC
+NEURAL SPEECH SYNTHESIS WITH LIMITED DATA
+INTELLIGENT STORAGE INTO SYNTHETIC DNA FOR ARCHIVING DIGITAL IMAGES AND VIDEOS
+DEEP TEMPLATE PROTECTION DEEP LEARNING IN BIOMETRIC TEMPLATE PROTECTION
+CONTRIBUTIONS TO HUMAN MOTION MODELLING AND RECOGNITION USING NONINTRUSIVE WEARABLE SENSORS
+READING BEYOND FACES
+AUDIOVISUAL ANALYSIS IN AI SUMMARY
+DYNAMIC CARRIER ALLOCATION FOR FUTURE SATELLITE SYSTEMS
+ANALYSIS OF ACOUSTIC SIGNALS RECORDED WITH A SMARTPHONE IN THE HELICOPTER CABIN FOR THE DIAGNOSTIC OF MECHANICAL FAULTS
+EMBEDDED NEURAL NETWORKS IN RESOURCECONSTRAINED HEARING INSTRUMENTS
+
+
+ACOUSTIC SIGNALS – CHALLENGING SIGNAL PROCESSING IN AN ERA OF MACHINE LEARNING
+OPPONENCY REVISED
+SPARSITY, A SWISS-KNIFE FROM INVERSE PROBLEMS TO DEEP LEARNING
+APPLICATIONS OF GRAPH SIGNAL PROCESSING: DEEP LEARNING AND POINT CLOUDS
+
+
+
+
+
+
+
+
+ 
